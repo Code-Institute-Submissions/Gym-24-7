@@ -7,7 +7,8 @@ The idea is for the website to be beautiful and also UX-friendly.
 
 * UX
   * Project Goals
-  * Target Audience Goals
+  * Users Goals
+  * Site Owner Goals
   * User Requirements and Expectations
   * Design Choices
     * Fonts
