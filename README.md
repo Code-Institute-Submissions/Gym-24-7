@@ -51,5 +51,16 @@ The website should be easy to navigate and you should instantly get a good overl
   * To attract more customers to our gym
   * To inspire people to be the best version of themselves
 
+## User Requirements and Expectations
 
-
+### Requirements
+ * The website needs to be easy to navigate
+ * Finding the gyms locations and opening hours should be easy
+ * The site needs to be fully responsive
+ * The website should be visually appealing 
+ * Pricing should be straightforward
+ 
+ ### Expectations
+  * The website should have appealing animations
+  * There should not be too much information
+  * 
