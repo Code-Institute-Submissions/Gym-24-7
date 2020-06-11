@@ -33,3 +33,22 @@ The idea is for the website to be beautiful and also UX-friendly.
 
 * Credits
 
+## UX
+
+### Project Goals
+The goal with the project is to create a website that makes it easier for people to find our (fictional) gym.
+The website should be easy to navigate and you should instantly get a good overlook.
+
+#### User Goals
+
+ * Inspire users to try different workout programs and participate in classes
+ * Make users to want to workout more
+ * The website needs to be user friendly on both desktop, tablet and phone
+ 
+ #### Site Owner Goals
+ 
+  * To attract more customers to our gym
+  * To inspire people to be the best version of themselves
+
+
+
