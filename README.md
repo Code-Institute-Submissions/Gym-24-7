@@ -58,9 +58,10 @@ The website should be easy to navigate and you should instantly get a good overl
  * Finding the gyms locations and opening hours should be easy
  * The site needs to be fully responsive
  * The website should be visually appealing 
- * Pricing should be straightforward
+ * Pricing for the gym membership should be straightforward
  
  ### Expectations
   * The website should have appealing animations
-  * There should not be too much information
+  * There should not be too much information presented at the same time
+  * Present information with icons to make it easier to find specific information faster
   * 
