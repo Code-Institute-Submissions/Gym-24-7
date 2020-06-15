@@ -72,4 +72,7 @@ For this project I'm going to use the Montserrats and font for headings. It's bo
 Montserrat & Roboto
 ![Montserrat Logo](/styling/montserrat.png)![Roboto Logo](/styling/roboto.png)
 
+### Colors
+For the colours I have chosen to go with mainly dark grey and black, I want to keep it elegant. To highlight and keep it intresting I've added red. Red is the color of passion, I think that goes well this specific branding.
+![Colors](/styling/Colors.png)
 
