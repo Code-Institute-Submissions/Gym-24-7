@@ -78,3 +78,6 @@ Montserrat & Roboto
 For the colours I have chosen to go with mainly dark grey and black, I want to keep it elegant. To highlight and keep it intresting I've added red. Red is the color of passion, I think that goes well this specific branding.
 ![Colors](/styling/Colors.png)
 
+
+### Styling
+For the overall styling of the project I'm using the foundation of Boostrap but on top of that I am using my own styling. 
