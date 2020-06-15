@@ -67,4 +67,9 @@ The website should be easy to navigate and you should instantly get a good overl
   
   
  ### Fonts
-For this project I'm going to use the Montserrats and font for headings. It's both elegant and eyecatching yet simple. For paragraphs I'm going to use Roboto, Roboto is similar to Montserrat.
+For this project I'm going to use the Montserrats and font for headings. It's both elegant and eyecatching yet simple. For paragraphs I'm going to use Roboto, Roboto is similar to Montserrat, the two fonts work great together.
+
+Montserrat & Roboto
+![Montserrat Logo](/styling/montserrat.png)![Roboto Logo](/styling/roboto.png)
+
+
