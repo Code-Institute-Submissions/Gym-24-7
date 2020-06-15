@@ -79,5 +79,8 @@ For the colours I have chosen to go with mainly dark grey and black, I want to k
 ![Colors](/styling/Colors.png)
 
 
+### Icons
+For the Icons I'm using icons from the fontawesome CDN. The goal here is not to overuse them, keep it simple.
+
 ### Styling
 For the overall styling of the project I'm using the foundation of Boostrap but on top of that I am using my own styling. 
