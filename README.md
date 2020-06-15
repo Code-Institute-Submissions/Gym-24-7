@@ -64,4 +64,7 @@ The website should be easy to navigate and you should instantly get a good overl
   * The website should have appealing animations
   * There should not be too much information presented at the same time
   * Present information with icons to make it easier to find specific information faster
-  * 
+  
+  
+ ### Fonts
+For this project I'm going to use the Montserrats and font for headings. It's both elegant and eyecatching yet simple. For paragraphs I'm going to use Roboto, Roboto is similar to Montserrat.
