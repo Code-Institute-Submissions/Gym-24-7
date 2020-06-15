@@ -87,3 +87,6 @@ For the overall styling of the project I'm using the foundation of Boostrap but 
 
 ### Images
 The Images goes in the same overall feel and look with the rest of the colorscheme. They are also engaging and happy.
+![Header image](/styling/headermin.png)
+
+
