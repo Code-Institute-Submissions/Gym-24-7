@@ -84,3 +84,6 @@ For the Icons I'm using icons from the fontawesome CDN. The goal here is not to 
 
 ### Styling
 For the overall styling of the project I'm using the foundation of Boostrap but on top of that I am using my own styling. 
+
+### Images
+The Images goes in the same overall feel and look with the rest of the colorscheme. They are also engaging and happy.
