@@ -97,5 +97,9 @@ All pictures used is from either Pexels or Freepik. Both of these sites are for 
 ## Wireframes
 I used Adobe XD to create the wireframes. Adobe XD is a prototype tool mostly used for creating mockups, wireframes and interactive prototypes. The wireframes I've done are very basic but straightforward. 
 
+### Desktop
+You can find the wireframe for the desktop  [here](https://raw.githubusercontent.com/Elinkatalina/Gym-24-7/master/wireframes/desktop.png)
+
+
 
 
