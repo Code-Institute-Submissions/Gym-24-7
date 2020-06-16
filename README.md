@@ -103,8 +103,8 @@ You can find the wireframe for the desktop  [here](https://raw.githubusercontent
 ### Tablet 
 You can find the wireframe for the tablet [here](https://raw.githubusercontent.com/Elinkatalina/Gym-24-7/master/wireframes/tablet.png)
 
-
-
+### Phone
+You can find then wireframe for the phone [here](https://raw.githubusercontent.com/Elinkatalina/Gym-24-7/master/wireframes/phone.png)
 
 
 
