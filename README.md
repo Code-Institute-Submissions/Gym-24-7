@@ -100,6 +100,11 @@ I used Adobe XD to create the wireframes. Adobe XD is a prototype tool mostly us
 ### Desktop
 You can find the wireframe for the desktop  [here](https://raw.githubusercontent.com/Elinkatalina/Gym-24-7/master/wireframes/desktop.png)
 
+### Tablet 
+You can find the wireframe for the tablet [here](https://raw.githubusercontent.com/Elinkatalina/Gym-24-7/master/wireframes/tablet.png)
+
+
+
 
 
 
