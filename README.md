@@ -94,5 +94,8 @@ Credits "Woman photo created by freepik - www.freepik.com"
 
 All pictures used is from either Pexels or Freepik. Both of these sites are for stockphotos. Every each one will be linked in credits.
 
+## Wireframes
+I used Adobe XD to create the wireframes. Adobe XD is a prototype tool mostly used for creating mockups, wireframes and interactive prototypes. The wireframes I've done are very basic but straightforward. 
+
 
 
