@@ -72,7 +72,7 @@ For this project I'm going to use the Montserrats and font for headings. It's bo
 Montserrat & Roboto
 
 
-![Montserrat Logo](/styling/montserrat.png)![Roboto Logo](/styling/roboto.png)
+![Montserrat font](/wireframes/fontscolorsetc/fontmontserrat.png)![Roboto font](/wireframes/fontscolorsetc/fontroboto.png)
 
 ### Colours
 For the colours I have chosen to go with mainly dark grey and black, I want to keep it elegant. To highlight and keep it intresting I've added red. Red is the color of passion, I think that goes well this specific branding.
@@ -89,8 +89,6 @@ For the overall styling of the project I'm using the foundation of Boostrap but 
 The Images goes in the same overall feel and look with the rest of the colorscheme. They are also engaging and happy.
 This is the image I've chosen to use for the hero of the website. I used Photoshop to edit the colours a bit.
 ![Header image](/styling/headermin.png)
-
-Credits "Woman photo created by freepik - www.freepik.com"
 
 All pictures used is from either Pexels or Freepik. Both of these sites are for stockphotos. Every each one will be linked in credits.
 
