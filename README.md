@@ -1,7 +1,8 @@
-# Gym 24/7
+# Gym 24/7 website
 
-Welcome to my project. In this project I will showcase my gym website.
-The idea is for the website to be beautiful and also UX-friendly.
+Welcome to a Gym website that is easy to navigate, easy to find relevant info and also beautiful.
+
+
 
 ## Content
 
