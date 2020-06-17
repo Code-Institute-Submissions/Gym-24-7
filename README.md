@@ -88,7 +88,7 @@ For the overall styling of the project I'm using the foundation of Boostrap but 
 ### Images
 The Images goes in the same overall feel and look with the rest of the colorscheme. They are also engaging and happy.
 This is the image I've chosen to use for the hero of the website. I used Photoshop to edit the colours a bit.
-![Header image](/styling/headermin.png)
+![Header image](/wireframes/fontscolorsetc/header.png)
 
 All pictures used is from either Pexels or Freepik. Both of these sites are for stockphotos. Every each one will be linked in credits.
 
