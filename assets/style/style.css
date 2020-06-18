@@ -10,6 +10,7 @@ body {
 
 /*Jumbotron styling*/
 .jumbotron {
+	background-image: linear-gradient(to top, black, transparent 90%), url("../images/header.png");
 	min-height:600px;
 }
 
