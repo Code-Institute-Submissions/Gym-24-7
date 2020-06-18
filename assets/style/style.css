@@ -2,7 +2,21 @@ body {
 	background-color:black;
 }
 
-
+/*Jumbotron styling*/
 .jumbotron {
 	min-height:600px;
+}
+
+
+/*Navbar styling*/
+.nav-logo {
+	font-size:32px;
+	color:#FFF;
+	font-family: 'Work Sans', sans-serif;
+	font-weight: 600;
+	letter-spacing:-2px;
+}
+
+.nav-logo:hover {
+	color:#FF0000;
 }
