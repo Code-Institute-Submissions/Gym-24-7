@@ -59,3 +59,16 @@ h1 {
 	color:#FFF;
 	font-size:64px;
 }
+
+
+.jumbotext {
+	margin:0;
+	text-align: center;
+	color:#FFF;
+	font-size:20px;
+	padding-top:20px;
+}
+
+strong {
+	color:#FF006E;
+}
