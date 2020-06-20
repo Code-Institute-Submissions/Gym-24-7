@@ -35,8 +35,27 @@ body {
 	font-size:17px;
 	font-weight:600;
 	font-family: 'Montserrat', sans-serif;
+		
 }
 
 .nav-item:hover {
-	color:#FF006E;
+	color:#FF0000;
+}
+
+.nav-custom {
+	margin: 0 auto;
+}
+
+/* Jumbotron container */
+
+.container {
+	min-height:300px;
+}
+
+h1 {
+	margin:0;
+	text-align: center;
+	padding-top:100px;
+	color:#FFF;
+	font-size:64px;
 }
