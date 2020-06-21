@@ -108,3 +108,7 @@ background-color:#FF0000;
 		font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 }
+
+.promotext i:hover {
+	color:#FF0000;
+}
