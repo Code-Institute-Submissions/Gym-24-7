@@ -1,6 +1,7 @@
 /*Imported font (work sans) from google fonts,*/
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500&display=swap');
 
 
 
@@ -98,4 +99,9 @@ background-color:#FF0000;
 .promotext {
 	color:white;
 	text-align: center;
+}
+
+.promotext h3 {
+		font-family: 'Roboto', sans-serif;
+	font-weight: 300;
 }
