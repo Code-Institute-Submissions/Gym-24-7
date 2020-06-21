@@ -114,6 +114,33 @@ background-color:#FF0000;
 	color:#FF0000;
 }
 
-.container p {
-	color:white;
+.contentcontainer {
+	width:60%;
+	margin:0 auto;
+	display: table;
+	clear:both;
 }
+
+.picturecontainer {
+	width:50%;
+	margin: 0 auto;
+	float:left;
+	
+	
+}
+
+.picturecontainer img {
+	border-radius: 50%;
+	
+}
+
+.textcontainer {
+	width:50%;
+	margin: 0 auto;
+	float:right;
+	color:#FFF;
+	font-size:23px;
+
+	
+}
+
