@@ -113,3 +113,7 @@ background-color:#FF0000;
 .promotext i:hover {
 	color:#FF0000;
 }
+
+.container p {
+	color:white;
+}
