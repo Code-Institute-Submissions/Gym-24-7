@@ -75,6 +75,10 @@ Montserrat & Roboto
 
 ![Montserrat font](/wireframes/fontscolorsetc/fontmontsserat.png)![Roboto font](/wireframes/fontscolorsetc/fontroboto.png)
 
+[Link to Montserrat](https://fonts.google.com/specimen/Montserrat)
+
+[Link to Roboto](https://fonts.google.com/specimen/Roboto)
+
 ### Colours
 For the colours I have chosen to go with mainly dark grey and black, I want to keep it elegant. To highlight and keep it intresting I've added red. Red is the color of passion, I think that goes well this specific branding.
 ![Colors](/wireframes/fontscolorsetc/Colors.png)
