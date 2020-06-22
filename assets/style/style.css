@@ -145,3 +145,25 @@ background-color:#FF0000;
 	
 }
 
+.customcarousel {
+	width:70%;
+	margin: 0 auto;
+	margin-top:100px;
+}
+
+.carousel-inner h2 {
+	color:black;
+}
+
+.carousel-control-prev-icon {
+	background-color:black;
+}
+
+.carousel-control-next-icon {
+	color:black;
+}
+
+.carousel-control-prev button {
+	background-color: black;
+}
+
