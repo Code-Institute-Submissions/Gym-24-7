@@ -155,15 +155,27 @@ background-color:#FF0000;
 	color:black;
 }
 
-.carousel-control-prev-icon {
-	background-color:black;
+.carousel-control-prev i {
+	font-size:62px;
+	color:red; 
+	
 }
 
-.carousel-control-next-icon {
-	color:black;
+.carousel-control-prev i:hover {
+	font-size:62px;
+	color:red; 
+	
 }
 
-.carousel-control-prev button {
-	background-color: black;
+.carousel-control-next i {
+	font-size:62px;
+	color:red; 
+	
+}
+
+.carousel-control-next i:hover {
+	font-size:62px;
+	color:red; 
+	
 }
 
