@@ -173,12 +173,23 @@ background-color:#FF0000;
 
 /* Card styling */
 .card-group {
-	width:80%;
+	width:70%;
 	margin:0 auto;
 	margin-top:100px;
 }
 
 .card {
-	margin-left:10px;
-	margin-right:10px;
+	margin-left:20px;
+	margin-right:20px;
+	text-align: center;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
+	border: none;
+}
+
+
+
+.card h5{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 600;
 }
