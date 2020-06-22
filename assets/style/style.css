@@ -135,6 +135,7 @@ background-color:#FF0000;
 }
 
 .textcontainer {
+	padding-top:60px;
 	width:50%;
 	margin: 0 auto;
 	float:right;
