@@ -211,3 +211,8 @@ background-color:#FF0000;
 .card-text {
 	line-height: 300%;
 }
+
+.button {
+	color:white;
+	margin-top:0px;
+}
