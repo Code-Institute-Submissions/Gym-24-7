@@ -93,6 +93,10 @@ strong {
 	font-weight: 300;
 }
 
+.promotext i {
+	color:white;
+}
+
 .promotext i:hover {
 	color:#FF0000;
 }
@@ -209,6 +213,11 @@ strong {
 	font-family: 'Montserrat', sans-serif;
 	font-weight:600; }
 
+.button:hover {
+	background-color: #520709;
+	
+}
+
 
 /* Footer styling*/
 .customfooter {
@@ -235,7 +244,7 @@ strong {
 }
 
 
-i {
+a i {
 	font-size:34px;
 	color:red;
 	

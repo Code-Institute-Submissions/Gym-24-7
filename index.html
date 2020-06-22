@@ -22,16 +22,15 @@
   </button>
   <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
     <div class="navbar-nav">
-      <a class="nav-item nav-link active" href="#">Classes</a>
-      <a class="nav-item nav-link" href="#">Membership</a>
-      <a class="nav-item nav-link" href="#">Our locations</a>
+      <a class="nav-item nav-link" href="#carouselExampleCaptions">Our locations</a>
+      <a class="nav-item nav-link" href="#classes">Classes</a>
+      <a class="nav-item nav-link" href="#pricing">Pricing</a>
     </div>
   </div>
 </nav>
 		<div class="container">
 	  <h1> We are open for <strong>you</strong></h1>
 	  <p class="jumbotext"> bla bla bla bla bla</p>
-	  <button class="button">Learn more!</button>
   </div>
 </div>
 		<!-- These are responsive boostrap columns, added with my own classes promotext to target them easier-->
@@ -113,6 +112,9 @@
 </div>
 		
 		<!--Boostrap card, on smaller screens it displays 1 card per line-->
+		<!-- added id of "classes" for the nav, for some reason jumping to an div class did not work-->
+		<div id="classes">
+			
 	<div class="card-group">
 	
   <div class="card">
@@ -137,7 +139,10 @@
     </div>
   </div>
 </div>
+			</div>
 		<!-- more boostrap cards for pricing, added custom class to be able to style better -->
+		<!-- added id of "pricing" for the nav, for some reason jumping to an div class did not work-->
+		<div id="pricing">
 		<div class="row cardpricing">
   <div class="col-sm-6">
     <div class="card pricecard">
@@ -173,6 +178,7 @@
     </div>
   </div>
 </div>
+			</div>
 		
 	<!--Footer with icons-->
 
