@@ -145,6 +145,10 @@ background-color:#FF0000;
 	
 }
 
+
+
+/*Carousel styling*/
+
 .customcarousel {
 	width:70%;
 	margin: 0 auto;
@@ -161,21 +165,20 @@ background-color:#FF0000;
 	
 }
 
-.carousel-control-prev i:hover {
-	font-size:62px;
-	color:red; 
-	
-}
-
 .carousel-control-next i {
 	font-size:62px;
 	color:red; 
 	
 }
 
-.carousel-control-next i:hover {
-	font-size:62px;
-	color:red; 
-	
+/* Card styling */
+.card-group {
+	width:80%;
+	margin:0 auto;
+	margin-top:100px;
 }
 
+.card {
+	margin-left:10px;
+	margin-right:10px;
+}
