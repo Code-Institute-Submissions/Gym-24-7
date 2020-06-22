@@ -171,7 +171,7 @@ background-color:#FF0000;
 	
 }
 
-/* Card styling */
+/* Card classes styling */
 .card-group {
 	width:70%;
 	margin:0 auto;
@@ -194,7 +194,20 @@ background-color:#FF0000;
 	font-weight: 600;
 }
 
+/* Card pricing styling */
+
 .cardpricing {
 	margin:0 auto;
-	width:60%;
+	width:40%;
+	margin-top:150px;
+}
+
+.pricecard {
+	width:90%;
+	margin: 0 auto;
+	border-radius:20px; 
+}
+
+.card-text {
+	line-height: 300%;
 }
