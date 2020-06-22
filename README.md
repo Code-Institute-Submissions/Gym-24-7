@@ -51,6 +51,15 @@ The website should be easy to navigate and you should instantly get a good overl
  
   * To attract more customers to our gym
   * To inspire people to be the best version of themselves
+  
+  ### User Stories
+  
+  * As a user, I want to be able to get a good overlook right away
+
+  * As a user, I want the website to be easy to navigate
+
+  * As a user, I want the pricing to be straight forward
+
 
 ## User Requirements and Expectations
 
