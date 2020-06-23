@@ -193,25 +193,26 @@ strong {
 }
 
 .box1 {
-	width:50%;
-	height:100px;
+	width:40%;
+	height:100%;
 	background-color:white;
 	margin:0 auto;
-	margin-left:10px;
-	margin-right:10px;
-	border-radius:10px;
+	margin-left:20px;
+	margin-right:20px;
+	border-radius:30px;
 }
 .box2 {
-	width:50%;
-	height:100px;
+	width:40%;
+	height:100%;
 	background-color:white;
 	margin:0 auto;
-	margin-left:10px;
-	margin-right:10px;
-	border-radius:10px;
+	margin-left:20px;
+	margin-right:20px;
+	border-radius:30px;
 }
 
 .box1 h2 {
+	margin-top:20px;
 	text-align: center;
 	font-weight: 200px;
 	font-family: 'Montserrat', sans-serif;
@@ -219,10 +220,27 @@ strong {
 }
 
 .box2 h2 {
+	margin-top:20px;
 	text-align: center;
 	font-weight: 200px;
 	font-family: 'Montserrat', sans-serif;
 	font-size:24px;
+}
+
+.box1 button {
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.box2 button {
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.card-text {
+	text-align: center;
+	line-height:300%;
+	font-size:20px;
 }
 
 .button {
@@ -300,7 +318,7 @@ i:hover{
 	}
 	
 	.textcontainer {
-	padding-top:300px;
+	padding-top:350px;
 	width:100%;
 	margin: 0 auto;
 	float:none;
@@ -321,11 +339,33 @@ i:hover{
 	.card-group {
 		width:80%;
 	}
-	
-	.pricecard {
-		width:160%;
-		margin:0 auto;
+	.flexcontainer {
+		width:100%;
 	}
+	
+	.box1 {
+		width:100%
+	}
+	
+	.box2 {
+		width:100%
+	}
+	
+	.box1 h2 {
+		font-size:16px;
+	}
+	
+	.card-text {
+		font-size:12px;
+	}
+	
+	.box1 button {
+	width:60%;
+}
+	.box2 button {
+	width:60%;
+}
+	
 }
 
 
