@@ -126,7 +126,7 @@ strong {
 /*Carousel styling*/
 
 .customcarousel {
-	width:90%;
+	width:70%;
 	margin: 0 auto;
 	margin-top:100px;
 }
@@ -149,7 +149,7 @@ strong {
 
 /* Card classes styling */
 .card-group {
-	width:90%;
+	width:70%;
 	margin:0 auto;
 	margin-top:100px;
 }
@@ -175,7 +175,7 @@ strong {
 
 .flexcontainer {
 	display:flex;
-	flex:wrap;
+	flex-wrap:wrap;
 	width:40%;
 	margin:0 auto;
 	margin-top:100px;
@@ -328,11 +328,11 @@ i:hover{
 	}
 	
 	.box1 {
-		width:100%
+		width:40%
 	}
 	
 	.box2 {
-		width:100%
+		width:40%
 	}
 	
 	.box1 h2 {
@@ -385,11 +385,11 @@ i:hover{
 	}
 	
 	.box1 {
-		width:80%
+		width:40%
 	}
 	
 	.box2 {
-		width:80%
+		width:40%
 	}
 	
 	.box1 h2 {
@@ -439,7 +439,8 @@ i:hover{
 	
 }
 
-@media only screen and (max-width: 993px) and (min-width: 1200px){
+
+@media screen and (max-width : 993px) and (min-width : 1200px) {
 	
 	.containerpicture img {
 		width:80%;
@@ -460,8 +461,16 @@ i:hover{
 	}
 	
 	.flexcontainer {
-		width:80%;
+		width:100%;
 		background-color:pink;
+	}
+	
+	.box1 {
+		width:50%;
+	}
+	
+	.box2 {
+		width:50%;
 	}
 	
 	
