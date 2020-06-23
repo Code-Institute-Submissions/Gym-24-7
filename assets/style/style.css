@@ -43,6 +43,18 @@ body {
 	color:#FF0000;
 }
 
+.navbar-toggler-icon {
+    background:url('https://i.ya-webdesign.com/images/hamburger-menu-icon-png-white-6.png') no-repeat center center;
+    background-size: 100% 100%;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+
 .nav-custom {
 	margin: 0 auto;
 }
@@ -377,7 +389,29 @@ i:hover{
 	
 }
 
+
+
 @media only screen and (max-width: 768px) and (min-width: 577px)  {
+	
+	.jumbocontainer {
+	margin-top:-90px;
+	}
+	
+	
+	.jumbotron {
+	background-image:url("../images/mediumheader2.png");
+		background-repeat: no-repeat;
+	height:300px;
+		margin:0 auto;
+	}
+	
+	.promocontainer {
+		margin-top:-100px;
+	}
+	
+	h1 {
+		font-size:30px;
+	}
 	.promotext {
 	margin-top:35px;
 		margin-bottom:35px;
@@ -438,6 +472,13 @@ i:hover{
 
 
 @media only screen and (max-width: 992px) and (min-width: 769px){
+	
+	.jumbotron {
+	background-image:url("../images/headerlarge2.png");
+		background-repeat: no-repeat;
+	height:300px;
+		margin:0 auto;
+	}
 	
 	.containerpicture img {
 		width:80%;
