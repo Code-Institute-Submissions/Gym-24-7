@@ -164,5 +164,7 @@ jumbotron in the different media queries. I link the navlinks to the different s
 
 * **Verdict:** The header & navbar passed all the tests.
 
+### Promocontainer
+* **Plan:** 
 
 
