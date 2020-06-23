@@ -131,3 +131,19 @@ You can find then wireframe for the phone [here](https://raw.githubusercontent.c
 ### Features that will be developed in the future:
 * Form to become a gym member
 
+## Technologies Used
+
+### Languages
+* HTML
+* CSS
+
+### Tools & Libraries
+* Boostrap
+* Flexbox
+* CSS grid
+* Adobe XD
+* Adope Photoshop
+* Adobe Dreamweaver
+* Pexels (Stock photos libary)
+* FreePik (Stock photos libary)
+
