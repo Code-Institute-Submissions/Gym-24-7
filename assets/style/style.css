@@ -296,6 +296,27 @@ i:hover{
 
 
 @media (max-width: 576px) { 
+	
+	.jumbocontainer {
+	margin-top:-90px;
+	}
+	
+	
+	.jumbotron {
+	background-image:url("../images/xsmallheader2.png");
+		background-repeat: no-repeat;
+	height:300px;
+		margin:0 auto;
+}
+	.promocontainer {
+		margin-top:-200px;
+	}
+	.nav-logo {
+		font-size:20px;
+	}
+	h1 {
+		font-size:30px;
+	}
 	.promotext {
 	margin-top:35px;
 		margin-bottom:35px;
@@ -328,11 +349,13 @@ i:hover{
 	}
 	
 	.box1 {
-		width:40%
+		width:40%;
+			margin-left:25px; 
 	}
 	
 	.box2 {
-		width:40%
+		width:40%;
+			margin-left:25px; 
 	}
 	
 	.box1 h2 {
@@ -385,11 +408,13 @@ i:hover{
 	}
 	
 	.box1 {
-		width:40%
+		width:40%;
+	
 	}
 	
 	.box2 {
-		width:40%
+		width:40%;
+
 	}
 	
 	.box1 h2 {

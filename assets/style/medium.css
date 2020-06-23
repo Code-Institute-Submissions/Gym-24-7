@@ -1,3 +1,11 @@
+/*Jumbotron styling*/
+.jumbotron {
+	background-image: linear-gradient(to top, black, transparent 90%), url("../images/largeheader2.png");
+	min-height:600px;
+}
+
+
+
 .containerpicture img {
 		width:80%;
 		margin-left:60px;
