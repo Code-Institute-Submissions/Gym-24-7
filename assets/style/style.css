@@ -318,7 +318,7 @@ i:hover{
 	}
 	
 	.textcontainer {
-	padding-top:350px;
+	padding-top:340px;
 	width:100%;
 	margin: 0 auto;
 	float:none;
@@ -361,15 +361,79 @@ i:hover{
 	
 	.box1 button {
 	width:60%;
+		font-size:12px;
 }
 	.box2 button {
 	width:60%;
+		font-size:12px;
 }
 	
 }
 
+@media only screen and (max-width: 768px) and (min-width: 577px)  {
+	.promotext {
+	margin-top:35px;
+		margin-bottom:35px;
+	}
+	
+	.picturecontainer img {
+		width:200%;
+		margin:0 auto;
+	}
+	
+	.textcontainer {
+	padding-top:470px;
+	width:100%;
+	margin: 0 auto;
+	float:none;
+	color:#FFF;
+	font-size:16px;
+		text-align:center;
 
-@media (min-width: 768px) { ... }
+	
+}
+	
+	.customcarousel {
+		width:100%;
+	}
+	
+	.carousel-item h2 {
+		font-size:16px;
+	}
+	.card-group {
+		width:100%;
+	}
+	.flexcontainer {
+		width:80%;
+	}
+	
+	.box1 {
+		width:80%
+	}
+	
+	.box2 {
+		width:80%
+	}
+	
+	.box1 h2 {
+		font-size:16px;
+	}
+	
+	.card-text {
+		font-size:12px;
+	}
+	
+	.box1 button {
+	width:60%;
+		font-size:15px;
+}
+	.box2 button {
+	width:60%;
+		font-size:15px;
+}
+	
+}
+}
 
 
 @media (min-width: 992px) { ... }
