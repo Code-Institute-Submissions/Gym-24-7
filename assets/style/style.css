@@ -184,20 +184,45 @@ strong {
 
 /* Card pricing styling */
 
-.cardpricing {
-	margin:0 auto;
+.flexcontainer {
+	display:flex;
+	flex:wrap;
 	width:40%;
-	margin-top:150px;
+	margin:0 auto;
+	margin-top:100px;
 }
 
-.pricecard {
-	width:90%;
-	margin: 0 auto;
-	border-radius:20px; 
+.box1 {
+	width:50%;
+	height:100px;
+	background-color:white;
+	margin:0 auto;
+	margin-left:10px;
+	margin-right:10px;
+	border-radius:10px;
+}
+.box2 {
+	width:50%;
+	height:100px;
+	background-color:white;
+	margin:0 auto;
+	margin-left:10px;
+	margin-right:10px;
+	border-radius:10px;
 }
 
-.card-text {
-	line-height: 300%;
+.box1 h2 {
+	text-align: center;
+	font-weight: 200px;
+	font-family: 'Montserrat', sans-serif;
+	font-size:24px;
+}
+
+.box2 h2 {
+	text-align: center;
+	font-weight: 200px;
+	font-family: 'Montserrat', sans-serif;
+	font-size:24px;
 }
 
 .button {
@@ -267,6 +292,39 @@ i:hover{
 	.promotext {
 	margin-top:35px;
 		margin-bottom:35px;
+	}
+	
+	.picturecontainer img {
+		width:200%;
+		margin:0 auto;
+	}
+	
+	.textcontainer {
+	padding-top:300px;
+	width:100%;
+	margin: 0 auto;
+	float:none;
+	color:#FFF;
+	font-size:16px;
+		text-align:center;
+
+	
+}
+	
+	.customcarousel {
+		width:100%;
+	}
+	
+	.carousel-item h2 {
+		font-size:16px;
+	}
+	.card-group {
+		width:80%;
+	}
+	
+	.pricecard {
+		width:160%;
+		margin:0 auto;
 	}
 }
 

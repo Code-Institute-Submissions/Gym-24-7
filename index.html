@@ -72,6 +72,7 @@
 		</div>
 		
 		<!-- boostrap carousel, added my own fontawesome icons to be able to target the controls easier-->
+		<!-- removed the code that makes the h2 disapear on smaller screens-->
 		
 	
 <div id="carouselExampleCaptions" class="carousel slide customcarousel" data-ride="carousel">
@@ -83,20 +84,20 @@
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img src="assets/images/gymlocation1.png" class="d-block w-100" alt="Gymlocation">
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption">
         <h2>Long Beach</h2>
        
       </div>
     </div>
     <div class="carousel-item">
       <img src="assets/images/gymlocation2.png" class="d-block w-100" alt="Gymlocation">
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption">
         <h2>New york</h2>
       </div>
     </div>
     <div class="carousel-item">
       <img src="assets/images/gymlocation3.png" class="d-block w-100" alt="Gymlocation">
-      <div class="carousel-caption d-none d-md-block">
+      <div class="carousel-caption">
         <h2>Arizona</h2>
       </div>
     </div>
@@ -142,43 +143,17 @@
 			</div>
 		<!-- more boostrap cards for pricing, added custom class to be able to style better -->
 		<!-- added id of "pricing" for the nav, for some reason jumping to an div class did not work-->
-		<div id="pricing">
-		<div class="row cardpricing">
-  <div class="col-sm-6">
-    <div class="card pricecard">
-      <div class="card-body">
-        <h5 class="card-title"> Gym card Base</h5>
-		    <p class="card-text"> Access 24/7
-				<br> Basic classes
-				<br> Acces to all our gyms
-				<br> 4 free PT sessions
-			
-		  </p>
-		  
-		  <button class="button">100$ year</button>
-      
-        
-      </div>
-    </div>
-  </div>
-  <div class="col-sm-6">
-    <div class="card pricecard">
-      <div class="card-body">
-        <h5 class="card-title"> Gym card Premium</h5>
-		  <p class="card-text">Acces 24/7
-		 <br> Basic classes
-		  <br> Premium classes
-			  <br> Access to all our gyms
-		  <br> Unlimited PT sessions
-		  <br> Free montly merch</p>
-		  <button class="button">200$ year</button>
-        
-        
-      </div>
-    </div>
-  </div>
-</div>
+		<div class="flexcontainer">
+			<div class="box1">
+				<h2>Base gym card</h2>
 			</div>
+			<div class="box2">
+				<h2>Premium gym card</h2>
+			</div>
+		
+		</div>
+		
+		
 		
 	<!--Footer with icons-->
 
