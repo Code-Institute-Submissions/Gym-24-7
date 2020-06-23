@@ -147,3 +147,9 @@ You can find then wireframe for the phone [here](https://raw.githubusercontent.c
 * Pexels (Stock photos libary)
 * FreePik (Stock photos libary)
 
+## Testing
+it is important that my site works as planned. So therefore I double test everything to make sure it works as intended.
+I test the website by responsiveness and features. I also try to look through the spelling. When I feel like I've gone trought it all I validate the code with the wc3 CSS & HTML validators.
+
+
+
