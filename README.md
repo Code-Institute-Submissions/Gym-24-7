@@ -121,5 +121,50 @@ You can find the wireframe for the tablet [here](https://raw.githubusercontent.c
 ### Phone
 You can find then wireframe for the phone [here](https://raw.githubusercontent.com/Elinkatalina/Gym-24-7/master/wireframes/phone.png)
 
+## Features
+
+### Features that have been developed:
+* Jumbotron with navlinks
+* Carousell to present different locations
+* Navbar collapsing when on smaller screensizes
+
+### Features that will be developed in the future:
+* Form to become a gym member
+
+## Technologies Used
+
+### Languages
+* HTML
+* CSS
+
+### Tools & Libraries
+* Boostrap
+* Flexbox
+* CSS grid
+* Adobe XD
+* Adope Photoshop
+* Adobe Dreamweaver
+* Pexels (Stock photos libary)
+* FreePik (Stock photos libary)
+
+## Testing
+it is important that my site works as planned. So therefore I double test everything to make sure it works as intended.
+I test the website by responsiveness and features. I also try to look through the spelling. When I feel like I've gone trought it all I validate the code with the wc3 CSS & HTML validators.
+
+### Header & Navbar
+* **Plan:** The header needs to be fully responsive, the header should include a navbar.
+
+* **Implementation:** I used FreePik to find a fitting header image. Then I edited it in Photoshop to fit with the color scheme.
+I added the header inside of a Boostrap jumbotron with the navbar. To make it look good on every screen size I changed the size of the image in Photoshop and linked it to the
+jumbotron in the different media queries. I link the navlinks to the different sections of the HTML page. The navbar is a Boostrap navbar. It will collapse the navlinks into an icon at smaller screensizes. I customized this for my liking.
+
+* **Test:** I test the responsivness of the header by opening the website in chrome and then resizing the window. I Also doublecheck in the chrome dev-tools, sometimes these two differs, the more correct one is the dev-tools one. I also doublechecked and looked at my website through my phone. I test to see if my nav links works by clicking them. I use the dev-tools to see if my navlinks collapse into my chosen icon properly.
+
+* **Results:** The header work as intended. It is fully responsive on all screensizes. The navbar looks correct and the navlinks properly links to the different HTML-section linked. The navlinks correctly collapse into an icon at smaller sizes.
+
+* **Verdict:** The header & navbar passed all the tests.
+
+### Promocontainer
+* **Plan:** 
 
 
