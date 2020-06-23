@@ -261,3 +261,17 @@ i:hover{
 	height:80px;
 	margin-top:200px;
 }
+
+
+@media (max-width: 576px) { 
+	.promotext {
+	margin-top:35px;
+		margin-bottom:35px;
+	}
+}
+
+
+@media (min-width: 768px) { ... }
+
+
+@media (min-width: 992px) { ... }
