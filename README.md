@@ -121,5 +121,13 @@ You can find the wireframe for the tablet [here](https://raw.githubusercontent.c
 ### Phone
 You can find then wireframe for the phone [here](https://raw.githubusercontent.com/Elinkatalina/Gym-24-7/master/wireframes/phone.png)
 
+## Features
 
+### Features that have been developed:
+* Jumbotron with navlinks
+* Carousell to present different locations
+* Navbar collapsing when on smaller screensizes
+
+### Features that will be developed in the future:
+* Form to become a gym member
 
