@@ -126,7 +126,7 @@ strong {
 /*Carousel styling*/
 
 .customcarousel {
-	width:70%;
+	width:90%;
 	margin: 0 auto;
 	margin-top:100px;
 }
@@ -149,7 +149,7 @@ strong {
 
 /* Card classes styling */
 .card-group {
-	width:70%;
+	width:90%;
 	margin:0 auto;
 	margin-top:100px;
 }
@@ -412,8 +412,7 @@ i:hover{
 }
 
 
-
-@media (max-width: 992px) and (min-width: 769px){
+@media only screen and (max-width: 992px) and (min-width: 769px){
 	
 	.containerpicture img {
 		width:80%;
@@ -439,3 +438,32 @@ i:hover{
 	
 	
 }
+
+@media only screen and (max-width: 993px) and (min-width: 1200px){
+	
+	.containerpicture img {
+		width:80%;
+		margin-left:60px;
+	}
+	
+	.containertext {
+	padding-top:20px;
+		text-align:center;
+	}
+	
+	.customcarousel {
+		width:100%;
+	}
+	
+	.card-group {
+		width:100%;
+	}
+	
+	.flexcontainer {
+		width:80%;
+		background-color:pink;
+	}
+	
+	
+}
+
