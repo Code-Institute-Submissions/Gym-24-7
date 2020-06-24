@@ -18,7 +18,7 @@
 		<!-- added a boostrap jumbotron, this is the hero section -->
 	<div class="jumbotron">
 		<!--This is a navbar from Boostrap, added my own custom classes to be able to style it better-->
-<nav class="navbar navbar-expand-lg nav-custom navbar-transparent">
+<nav class="navbar-fixed-top navbar navbar-expand-lg nav-custom navbar-transparent fixed-top">
   <a class="navbar-brand nav-logo" href="index.html">Gym 24/7</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -32,7 +32,7 @@
   </div>
 </nav>
 		<div class="container">
-	  <h1 id="headertext"> We are open for <strong class="strongjumbotrontext">you</strong></h1>
+	  <h1 class="headertext"> We are open for <strong class="strongjumbotrontext">you</strong></h1>
 	  <p class="jumbotext"> Workout for everyone! </p>
   </div>
 </div>
@@ -127,24 +127,30 @@
 		<!--Boostrap card, on smaller screens it displays 1 card per line-->
 		<!-- added id of "classes" for the nav, for some reason jumping to an div class did not work-->
 		<div id="classes">
-			
+		<div class="container-fluid">
+			<div class="row">
+
 	<div class="card-group">
-	
-  <div class="card">
+		<div class="col-sm-9 col-md-4 col-lg-4 my-sm-4 mx-auto">
+  <div class="card ml-3">
     <img class="card-img-top" src="assets/images/card1.png" alt="Woman with drumball">
     <div class="card-body">
       <h5 class="card-title">Crossfit </h5>
       <p class="card-text">Tuesday & Wednesday</p>
     </div>
   </div>
-  <div class="card">
+			</div>
+		<div class="col-sm-9 col-md-4 col-lg-4 my-sm-4 mx-auto">
+  <div class="card ml-3">
     <img class="card-img-top" src="assets/images/card2.png" alt="girls doing yoga">
     <div class="card-body">
       <h5 class="card-title">Yoga </h5>
       <p class="card-text">Monday & Friday</p>
     </div>
   </div>
-  <div class="card">
+			</div>
+		<div class="col-sm-9 col-md-4 col-lg-4 my-sm-4 mx-auto">
+  <div class="card ml-3">
     <img class="card-img-top" src="assets/images/card3.png" alt="girl stretching outside">
     <div class="card-body">
       <h5 class="card-title">Outdoor training</h5>
@@ -152,33 +158,56 @@
     </div>
   </div>
 </div>
+				</div>
+				</div>
+			</div>
 			</div>
 		<!-- more boostrap cards for pricing, added custom class to be able to style better -->
 		<!-- added id of "pricing" for the nav, for some reason jumping to an div class did not work-->
-		<div class="flexcontainer">
-			<div class="box1">
-				<h2>Base gym card</h2>
-				<p class="card-text"> Access 24/7
-				<br> Basic classes
-				<br> Acces to all our gyms
-				<br> 4 free PT sessions
+		<div class="container">
+			<div class="row">
+				<div class="col">
+					<div class="card">
+						<div class="card-title">
+						<h2 class="card-title-text text-center">
+							Gym card Base
+							</h2>
+						</div>
+						<div id="card-body">
+							<ul>
+							<li> Basic classes </li>
+								<li>Access to all our gyms </li>
+								<li> 4 free PT sessions</li>
+				
+							
+							</ul>
+						</div>
+					
+					</div>
+				</div>
+				<div class="col">
+					<div class="card">
+						<div class="card-title">
+							<h2 class="card-title-text text-center">
+							Gym card Premium
+							</h2>
+							
+						</div>
+						<div id="card-body">
+							<ul>
+							<li> Premium classes </li>
+								<li>Access to all our gyms </li>
+								<li>Unlimited PT sessions</li>
+								<li>Free monthly merch</li>
+							
+							</ul>
+						</div>
+					</div>
+				</div>
 			
-		  </p>
-				<button class="button">100$ year</button>
-			</div>
-			<div class="box2">
-				<h2>Premium gym card</h2>
-				<p class="card-text">Acces 24/7
-		 <br> Basic classes
-		  <br> Premium classes
-			  <br> Access to all our gyms
-		  <br> Unlimited PT sessions
-		  <br> Free monthly merch</p>
-				<button class="button">200$ year</button>
 			</div>
 		
 		</div>
-		
 		
 		
 	<!--Footer with icons-->
