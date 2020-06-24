@@ -151,20 +151,16 @@ body {
 
 /* pricing cards*/
 
-.customcontainer {
-	width:40%;
-}
-
 .pricingcard {
 	background-color:white;
 	border-radius:20px;
+	padding-bottom:20px;
 }
 
 .pricelist {
 	list-style-type:none;
 	font-size:24px;
 	line-height: 200%;
-	text-align: center;
 	padding-left:0;
 }
 
@@ -178,10 +174,10 @@ body {
 	height:50px;
 	margin:0 auto;
 	display:block;
-	margin-top:50px;
-	margin-bottom:50px;
 	font-family: 'Montserrat', sans-serif;
-	font-weight:600; }
+	font-weight:600; 
+
+}
 
 .button:hover {
 	background-color: #520709;
@@ -206,7 +202,7 @@ body {
 	margin:0 auto;
 }
 
-.footercontent {
+footer {
 	width:33%;
 	margin:0 auto;
 	margin-bottom:0px;
@@ -214,20 +210,20 @@ body {
 }
 
 
-a i {
+.footericon{
 	font-size:34px;
 	color:red;
 	
 } 
 
-i:hover{
+.footericon:hover{
 	color:#3E0506;
 }
 	
 
 
 
-.container2 {
+.footercontainer {
 	height:80px;
 	margin-top:200px;
 }
