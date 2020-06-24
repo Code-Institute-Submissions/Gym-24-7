@@ -80,7 +80,7 @@ body {
 	padding-top:20px;
 }
 
-strong {
+.strongjumbotrontext {
 	color:#FF0000;
 }
 
@@ -90,37 +90,27 @@ strong {
 
 /* Promotext styling */
 
-.promotext {
-	color:white;
-	text-align: center;
-}
 
-.promotext h3 {
+
+.titlepromotext{
 		font-family: 'Roboto', sans-serif;
 	font-weight: 300;
-}
-
-.promotext i {
 	color:white;
 }
 
-.promotext i:hover {
+.promoicons {
+	color:white;
+}
+
+.promoicons:hover {
 	color:#FF0000;
 }
 
-.containerpicture {
-	margin:0 auto;
-}
 
-.containerpicture img {
-	border-radius:50%;
-}
-
-.containertext {
-	display:flex;
-	color:#FFF;
-	justify-content: center;
-  align-items: center;
+.abouttext {
+	color:white;
+	font-family: 'Roboto', sans-serif;
+	font-size:25px;
 }
 
 .strong {
@@ -132,15 +122,6 @@ strong {
 
 /*Carousel styling*/
 
-.customcarousel {
-	width:70%;
-	margin: 0 auto;
-	margin-top:100px;
-}
-
-.carousel-inner h2 {
-	color:red;
-}
 
 .carousel-control-prev i {
 	font-size:62px;
@@ -305,243 +286,4 @@ i:hover{
 
 
 
-@media (max-width: 576px) { 
-	
-	.jumbocontainer {
-	margin-top:-90px;
-	}
-	
-	
-	.jumbotron {
-	background-image:url("../images/xsmallheader2.png");
-		background-repeat: no-repeat;
-	height:300px;
-		margin:0 auto;
-}
-	.promocontainer {
-		margin-top:-200px;
-	}
-	.nav-logo {
-		font-size:20px;
-	}
-	h1 {
-		font-size:30px;
-	}
-	.promotext {
-	margin-top:35px;
-		margin-bottom:35px;
-	}
-	
-	.containerpicture img {
-		width:80%;
-		margin-left:40px;
-	}
-	
-	.containertext {
-	padding-top:20px;
-		text-align:center;
-
-	
-}
-	
-	.customcarousel {
-		width:100%;
-	}
-	
-	.carousel-item h2 {
-		font-size:16px;
-	}
-	.card-group {
-		width:80%;
-	}
-	.flexcontainer {
-		width:100%;
-	}
-	
-	.box1 {
-		width:60%;
-			margin-left:80px; 
-	margin-top:20px;
-	}
-	
-	.box2 {
-		width:60%;
-			margin-left:80px;
-		margin-top:20px;
-	}
-	
-	.box1 h2 {
-		font-size:16px;
-	}
-	
-	.card-text {
-		font-size:12px;
-	}
-	
-	.box1 button {
-	width:60%;
-		font-size:12px;
-}
-	.box2 button {
-	width:60%;
-		font-size:12px;
-}
-	
-	.container2 i {
-		font-size:24px;
-	}
-}
-
-
-
-@media only screen and (max-width: 768px) and (min-width: 577px)  {
-	
-	.jumbocontainer {
-	margin-top:-90px;
-	}
-	
-	
-	.jumbotron {
-	background-image:url("../images/mediumheader2.png");
-		background-repeat: no-repeat;
-	height:300px;
-		margin:0 auto;
-	}
-	
-	.promocontainer {
-		margin-top:-100px;
-	}
-	
-	h1 {
-		font-size:30px;
-	}
-	.promotext {
-	margin-top:35px;
-		margin-bottom:35px;
-	}
-	
-	.containerpicture img {
-		width:80%;
-		margin-left:40px;
-	}
-	
-	.containertext {
-	padding-top:20px;
-		text-align:center;
-	}
-	
-	.customcarousel {
-		width:100%;
-	}
-	
-	.carousel-item h2 {
-		font-size:16px;
-	}
-	.card-group {
-		width:100%;
-	}
-	.flexcontainer {
-		width:80%;
-	}
-	
-	.box1 {
-		width:40%;
-	
-	}
-	
-	.box2 {
-		width:40%;
-
-	}
-	
-	.box1 h2 {
-		font-size:16px;
-	}
-	
-	.card-text {
-		font-size:12px;
-	}
-	
-	.box1 button {
-	width:60%;
-		font-size:15px;
-}
-	.box2 button {
-	width:60%;
-		font-size:15px;
-}
-	
-}
-
-
-@media only screen and (max-width: 992px) and (min-width: 769px){
-	
-	.jumbotron {
-	background-image:url("../images/headerlarge2.png");
-		background-repeat: no-repeat;
-	height:300px;
-		margin:0 auto;
-	}
-	
-	.containerpicture img {
-		width:80%;
-		margin-left:60px;
-	}
-	
-	.containertext {
-	padding-top:20px;
-		text-align:center;
-	}
-	
-	.customcarousel {
-		width:100%;
-	}
-	
-	.card-group {
-		width:100%;
-	}
-	
-	.flexcontainer {
-		width:80%;
-	}
-	
-	
-}
-
-
-@media screen and (max-width : 993px) and (min-width : 1200px) {
-	
-	.containerpicture img {
-		width:80%;
-		margin-left:60px;
-	}
-	
-	.containertext {
-	padding-top:20px;
-		text-align:center;
-	}
-	
-	.customcarousel {
-		width:100%;
-	}
-	
-	.card-group {
-		width:100%;
-	}
-	
-	.flexcontainer {
-		width:100%;
-		background-color:pink;
-	}
-	
-	.box1 {
-		width:50%;
-	}
-	
-	.box2 {
-		width:50%;
-	}
-	
-	
-}
 

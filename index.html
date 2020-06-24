@@ -31,8 +31,8 @@
     </div>
   </div>
 </nav>
-		<div class="container jumbocontainer">
-	  <h1 id="headertext"> We are open for <strong>you</strong></h1>
+		<div class="container">
+	  <h1 id="headertext"> We are open for <strong class="strongjumbotrontext">you</strong></h1>
 	  <p class="jumbotext"> Workout for everyone! </p>
   </div>
 </div>
@@ -42,34 +42,37 @@
   <div class="row">
 	  
 	  
-    <div class="col-12 col-sm-6 col-lg-3 promotext">
-      <h2><i class="fas fa-user-clock"></i></h2>
-		<h3> All our gyms are open 24/7</h3>
+    <div class="col-12 col-sm-6 col-lg-3 text-center">
+      <h2 class="promoicons"><i class="fas fa-user-clock"></i></h2>
+		<h3 class="titlepromotext"> All our gyms are open 24/7</h3>
 
     </div>
-    <div class="col-12 col-sm-6 col-lg-3 promotext">
-      <h2><i class="fas fa-swimmer"></i></h2>
-		<h3> A big variety of classes</h3>
+    <div class="col-12 col-sm-6 col-lg-3 text-center">
+      <h2 class="promoicons"><i class="fas fa-swimmer"></i></h2>
+		<h3 class="titlepromotext"> A big variety of classes</h3>
     </div>
-    <div class="col-12 col-sm-6 col-lg-3 promotext">
-      <h2><i class="fas fa-comment-dots"></i></h2>
-		<h3> Pt is included in pricing</h3>
+    <div class="col-12 col-sm-6 col-lg-3 text-center">
+      <h2 class="promoicons"><i class="fas fa-comment-dots"></i></h2>
+		<h3 class="titlepromotext"> Pt is included in pricing</h3>
     </div>
-	  <div class="col-12 col-sm-6 col-lg-3 promotext">
-      <h2><i class="fas fa-globe-europe"></i></h2>
-		<h3> Gyms all over the world </h3>
+	  <div class="col-12 col-sm-6 col-lg-3 text-center">
+      <h2 class="promoicons"><i class="fas fa-globe-europe"></i></h2>
+		<h3 class="titlepromotext"> Gyms all over the world </h3>
     </div>
   </div>
 </div>
 		<!-- added containers to hold picture and text -->
 		<div class="container">
   <div class="row">
-    <div class="col-lg-6 col-md-12 containerpicture">
-      <img src="assets/images/woman2.png" alt="Woman with gymball">
+	  <!-- on medium and smaller sreen the content should take upp the whole space, on bigger half the space-->
+    <div class="col-md-12 col-lg-6">
+      <img src="assets/images/woman-with-gymball.png" class="img-fluid" alt="Woman with gymball">
     </div>
-	  
-    <div class="col-lg-6 col-md-12 containertext">
-     "24/7 Gym have been my go to gym for 2 years now. The prices are good, the staff are extraordinary and the equipment is great. When I started my fitness journey the PT's did everything in their power to help me get where I wanted. When I wanted to give up they helped keep me motivated. I love the big variety of classes" - Wanda Wing
+	  <!-- on medium and smaller sreen the content should take upp the whole space, on bigger half the space-->
+	  <!-- use my-auto to center the text inside the div in the y axis-->
+    <div class="col-md-12 col-lg-6 my-auto">
+     <p class="abouttext">"24/7 Gym have been my go to gym for 2 years now. The prices are good, the staff are extraordinary and the equipment is great. When I started my fitness journey the PT's did everything in their power to help me get where I wanted. When I wanted to give up they helped keep me motivated. I love the big variety of classes" - Wanda Wing
+		 </p>
 		
     </div>
   </div>
@@ -78,7 +81,9 @@
 		<!-- boostrap carousel, added my own fontawesome icons to be able to target the controls easier-->
 		<!-- removed the code that makes the h2 disapear on smaller screens-->
 		
-	
+	<div id="container">
+		<div class="row">
+			<div class="col-md-12 col-lg-10 mx-auto">
 <div id="carouselExampleCaptions" class="carousel slide customcarousel" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#carouselExampleCaptions" data-slide-to="0" class="active"></li>
@@ -115,6 +120,9 @@
     <span class="sr-only">Next</span>
   </a>
 </div>
+			</div>
+			</div>
+		</div>
 		
 		<!--Boostrap card, on smaller screens it displays 1 card per line-->
 		<!-- added id of "classes" for the nav, for some reason jumping to an div class did not work-->
