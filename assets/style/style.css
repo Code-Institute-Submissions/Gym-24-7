@@ -14,7 +14,7 @@ body {
 .jumbotron {
 	background-image: linear-gradient(to top, black, transparent 90%), url("../images/header.png");
 	 background-size: cover;
-  background-position:center;
+  background-position:top center;
   height: auto;
   width:100%;
 }
@@ -234,11 +234,9 @@ footer {
 
 /* media queries for smaller devices */
 
-@media (min-width: 320px) {
+
+@media (min-width: 375px){
 	
-	.headertext {
-		font-size:40px;
-	}
 	
 	.promoitem {
 		padding-top:20px;
