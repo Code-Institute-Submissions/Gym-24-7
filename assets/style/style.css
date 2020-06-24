@@ -5,10 +5,15 @@
 
 
 
+
+html {
+	font-size:62.5%;
+	
+}
 body {
 	background-color:#000;
 	overflow-x: hidden;
-	font-size:62.5%;
+	font-size:1.6rem
 }
 
 /*Jumbotron styling*/
@@ -23,7 +28,7 @@ body {
 
 /*Navbar styling*/
 .nav-logo {
-	font-size:2.2rem;
+	font-size:3.4rem;
 	color:#FFF;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
@@ -36,9 +41,9 @@ body {
 
 .nav-item {
 	color:#FFF;
-	margin-left:3.1rem;
-	margin-right:3.1rem;
-	font-size:1.2rem;
+	margin-left:5rem;
+	margin-right:5rem;
+	font-size:2.2rem;
 	font-weight:600;
 	font-family: 'Montserrat', sans-serif;
 		
@@ -71,9 +76,9 @@ body {
 .headertext {
 	margin:0;
 	text-align: center;
-	padding-top:100px;
+	padding-top:10rem;
 	color:#FFF;
-	font-size:4.4rem;
+	font-size:6.4rem;
 }
 
 
@@ -81,7 +86,7 @@ body {
 	margin:0;
 	text-align: center;
 	color:#FFF;
-	font-size:1.5rem;
+	font-size:2.4rem;
 	padding-top:2rem;
 }
 
@@ -101,10 +106,12 @@ body {
 		font-family: 'Roboto', sans-serif;
 	font-weight: 300;
 	color:white;
+	font-size:3.4rem;
 }
 
 .promoicons {
 	color:white;
+	font-size:3.2rem;
 }
 
 .promoicons:hover {
@@ -115,7 +122,7 @@ body {
 .abouttext {
 	color:white;
 	font-family: 'Roboto', sans-serif;
-	font-size:1.5rem;
+	font-size:2.4rem;
 }
 
 .strong {
@@ -127,22 +134,22 @@ body {
 
 /* applying padding to all containers */
 .container {
-	padding-top:7rem;
-	padding-bottom:7rem;
+	padding-top:10rem;
+	padding-bottom:10rem;
 }
 
 /*Carousel styling*/
 
 
 .customarrows i {
-	font-size:3rem;
+	font-size:4.5rem;
 	color:red; 
 }
 
 /* Card classes styling */
 .card-group {
 	margin:0 auto;
-	margin-top:100px;
+	margin-top:10rem;
 		text-align: center;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
@@ -157,20 +164,26 @@ body {
 .card-title {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
+	font-size:2.2rem;
 }
 
 
 /* pricing cards*/
 
+.pricetitle {
+	font-size:2.5rem;
+	
+}
+
 .pricingcard {
 	background-color:white;
-	border-radius:2rem;
-	padding-bottom:2rem;
+	border-radius:5rem;
+	padding-bottom:5rem;
 }
 
 .pricelist {
 	list-style-type:none;
-	font-size:1.5rem;
+	font-size:2rem;
 	line-height: 200%;
 	padding-left:0;
 }
@@ -201,7 +214,7 @@ body {
 
 .copyrighttext {
 	margin-top:20rem;
-	font-size:0.7rem;
+	font-size:1rem;
 	text-align: center;
 	color:#FFF;
 	margin:0 auto;
@@ -215,8 +228,8 @@ footer {
 }
 
 
-.footericon{
-	font-size:3.4rem;
+.footericon {
+	font-size:3rem;
 	color:red;
 	
 } 
@@ -233,7 +246,8 @@ footer {
 	margin-top:15rem;
 }
 
-/* media queries for smaller devices */
+/* media queries for smaller devices 
+added some spaces between cards that the boostrap "my-sm" didnt cover*/
 
 
 @media (min-width: 320px){
@@ -255,7 +269,7 @@ footer {
 	}
 	
 	.footericon {
-		font-size:1.5rem;
+		font-size:3rem;
 	}
 }
 	
