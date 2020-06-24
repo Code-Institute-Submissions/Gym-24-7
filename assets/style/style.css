@@ -149,6 +149,24 @@ body {
 }
 
 
+/* pricing cards*/
+
+.customcontainer {
+	width:40%;
+}
+
+.pricingcard {
+	background-color:white;
+	border-radius:20px;
+}
+
+.pricelist {
+	list-style-type:none;
+	font-size:24px;
+	line-height: 200%;
+	text-align: center;
+	padding-left:0;
+}
 
 
 .button {
@@ -161,6 +179,7 @@ body {
 	margin:0 auto;
 	display:block;
 	margin-top:50px;
+	margin-bottom:50px;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:600; }
 
