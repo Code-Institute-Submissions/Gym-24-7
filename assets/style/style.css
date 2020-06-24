@@ -8,6 +8,7 @@
 body {
 	background-color:#000;
 	overflow-x: hidden;
+	font-size:62.5%;
 }
 
 /*Jumbotron styling*/
@@ -22,7 +23,7 @@ body {
 
 /*Navbar styling*/
 .nav-logo {
-	font-size:32px;
+	font-size:2.2rem;
 	color:#FFF;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
@@ -35,9 +36,9 @@ body {
 
 .nav-item {
 	color:#FFF;
-	margin-left:50px;
-	margin-right:50px;
-	font-size:17px;
+	margin-left:3.1rem;
+	margin-right:3.1rem;
+	font-size:1.2rem;
 	font-weight:600;
 	font-family: 'Montserrat', sans-serif;
 		
@@ -72,7 +73,7 @@ body {
 	text-align: center;
 	padding-top:100px;
 	color:#FFF;
-	font-size:64px;
+	font-size:4.4rem;
 }
 
 
@@ -80,8 +81,8 @@ body {
 	margin:0;
 	text-align: center;
 	color:#FFF;
-	font-size:20px;
-	padding-top:20px;
+	font-size:1.5rem;
+	padding-top:2rem;
 }
 
 .strongjumbotrontext {
@@ -114,7 +115,7 @@ body {
 .abouttext {
 	color:white;
 	font-family: 'Roboto', sans-serif;
-	font-size:25px;
+	font-size:1.5rem;
 }
 
 .strong {
@@ -124,17 +125,17 @@ body {
 }
 
 
-/* Container with picture & text styling */
+/* applying padding to all containers */
 .container {
-	padding-top:100px;
-	padding-bottom:100px;
+	padding-top:7rem;
+	padding-bottom:7rem;
 }
 
 /*Carousel styling*/
 
 
 .customarrows i {
-	font-size:62px;
+	font-size:3rem;
 	color:red; 
 }
 
@@ -163,13 +164,13 @@ body {
 
 .pricingcard {
 	background-color:white;
-	border-radius:20px;
-	padding-bottom:20px;
+	border-radius:2rem;
+	padding-bottom:2rem;
 }
 
 .pricelist {
 	list-style-type:none;
-	font-size:24px;
+	font-size:1.5rem;
 	line-height: 200%;
 	padding-left:0;
 }
@@ -179,7 +180,7 @@ body {
 	background-color:#FF0000;
 	color:white;
 	border:none;
-	border-radius:25px;
+	border-radius:2rem;
 	width:150px;
 	height:50px;
 	margin:0 auto;
@@ -199,8 +200,8 @@ body {
 
 
 .copyrighttext {
-	margin-top:200px;
-	font-size:10px;
+	margin-top:20rem;
+	font-size:0.7rem;
 	text-align: center;
 	color:#FFF;
 	margin:0 auto;
@@ -215,7 +216,7 @@ footer {
 
 
 .footericon{
-	font-size:34px;
+	font-size:3.4rem;
 	color:red;
 	
 } 
@@ -229,32 +230,32 @@ footer {
 
 .footercontainer {
 	height:80px;
-	margin-top:200px;
+	margin-top:15rem;
 }
 
 /* media queries for smaller devices */
 
 
-@media (min-width: 375px){
+@media (min-width: 320px){
 	
 	
 	.promoitem {
-		padding-top:20px;
-		padding-bottom:20px;
+		padding-top:2rem;
+		padding-bottom:2rem;
 	}
 	
 	.classcard {
-		padding-top:20px;
-		padding-bottom:20px;
+		padding-top:2rem;
+		padding-bottom:2rem;
 	}
 	
 	.pricingcard {
-		margin-top:20px;
-		margin-bottom:20px;
+		margin-top:2rem;
+		margin-bottom:2rem;
 	}
 	
 	.footericon {
-		font-size:23px;
+		font-size:1.5rem;
 	}
 }
 	
