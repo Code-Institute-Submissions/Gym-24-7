@@ -123,16 +123,9 @@ body {
 /*Carousel styling*/
 
 
-.carousel-control-prev i {
+.customarrows i {
 	font-size:62px;
 	color:red; 
-	
-}
-
-.carousel-control-next i {
-	font-size:62px;
-	color:red; 
-	
 }
 
 /* Card classes styling */
