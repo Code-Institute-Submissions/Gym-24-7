@@ -165,6 +165,14 @@ jumbotron in the different media queries. I link the navlinks to the different s
 * **Verdict:** The header & navbar passed all the tests.
 
 ### Promocontainer
-* **Plan:** 
+* **Plan:** The promocontainer should contain text with symbols that promotes the gym and it features. It should display all the icons and text on a single line on larger screens, **two** per line on medium and **one** on each line on smaller screens.
+
+* **Implementation:** I created a container, with a row and 4 columns. In each column I added a header and an icon. I added different col-class so the responsivness would be as intended.
+
+* **Results:** The promocontainer with the icons and text works as intended, it displays all the icons and text on a single line on desktop, **two** per line on tablet and on desktop it should display all the icons and text on the same line.
+
+* **Verdict:** The promocontainer passed all the tests.
+
+
 
 
