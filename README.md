@@ -251,8 +251,20 @@ I
 
 * **Verdict:** The footer passed all the tests.
 
+## Bugs
 
+Along the way there were some bugs.
 
+### Bootstrap cards displays spacing between
+
+**Bug** When adding the navbar inside of the jumbotron it would display a lot of whitespace on the top, like a margin.
+**Solution** There was no margin to edit, setting is to negative margin did not work either. Luckily when I added the class "fixed-top" to the navbar to make it fixed the whitespace disapeared.
+
+### Bootstrap not displaying cards properly on 375px and down
+
+**Bug** The different cards did not display properly on small screen sizes. I used the class my-sm-4 that was gonna add spacing between the cards on smaller screensizes.
+It did not work for 375 and down.
+**Solution** I added a custom media querie to target these small sizes. I used rem to add some margin between the cards.
 
 
 
