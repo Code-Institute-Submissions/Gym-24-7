@@ -304,7 +304,12 @@ The Bootstrap documentation helped a lot.
 ### Pictures
 
 All of the pictures used in this project are free to use stock photos. The pictures are from FreePik.com and Pexels.com. I will link them below.
+* [Header/Jumbotron picture](https://www.freepik.com/free-photo/couple-training-gym_3633278.htm#page=1&query=gym&position=20)
+* [Carousel gym location Long Beach](https://www.freepik.com/free-photo/modern-gym-interior-with-exercise-equipments_3630907.htm#page=1&query=gym&position=14)
 * [Carousel gym location New York](https://www.freepik.com/free-photo/gym-interior-with-equipments_3630931.htm#page=1&query=gym&position=4)
+* [Carousel gym location Arizona](https://www.freepik.com/free-photo/still-life-gym-equipment_4729807.htm#page=1&query=gym&position=31)
+* [Classes card image number 1](https://www.pexels.com/photo/people-holding-a-weights-3766211/)
+* [Classes card image number 2](https://www.pexels.com/photo/woman-in-blue-sports-bra-and-white-leggings-doing-yoga-3822166/)
 * [Classes card image number 3](https://www.freepik.com/free-photo/young-beautiful-sportive-girl-training-sunrise-seaside_7987006.htm#page=1&query=fitness&position=49)
 
 
