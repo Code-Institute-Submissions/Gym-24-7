@@ -31,7 +31,7 @@ Welcome to a Gym website that is easy to navigate, easy to find relevant info an
 
 * Bugs
 
-* Deployments
+* Deployment
 
 * Credits
 
