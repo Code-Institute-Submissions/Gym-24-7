@@ -31,7 +31,7 @@ Welcome to a Gym website that is easy to navigate, easy to find relevant info an
 
 * Bugs
 
-* Deployments
+* Deployment
 
 * Credits
 
@@ -191,8 +191,7 @@ jumbotron in the different media queries. I link the navlinks to the different s
 
 * **Plan:** Use some kind of slider to represent the different locations of the gym. It should be fully responsive
 
-* **Implementation:** I used FreePik to find different pictures of gyms. I went through the Bootstrap documentation and decicded that the carousel was a good fit for my needs.
-I added a container with a row and a col to the carousel and gave it a col md of 12  and col l of 10 I wanted the carousel to take upp 100% of the container on medium to small sizes but not for desktop. 
+* **Implementation:** I used FreePik to find different pictures of gyms. I went through the Bootstrap documentation and decicded that the carousel was a good fit for my needs. I took the carousel and then I added a container with a row and a col to the carousel and gave it a col md of 12  and col l of 10 I wanted the carousel to take upp 100% of the container on medium to small sizes but not for desktop. 
 
 * **Test:** I had some issues with the carousel not sliding. I used google and found a stack overflow thread that helped me. There was some CSS links missing. More about this in bugs. I used chrome dev-tools to see how the carousel works on different screen sizes.
 
@@ -270,3 +269,56 @@ It did not work for 375 and down.
 
 * **Bug:** The slider and controls for the Bootstrap carousel did not work at all. 
 * **Solution:** I used my good old friend Google and found a Stackoverflow [thread](https://stackoverflow.com/questions/48824568/bootstrap-4-carousel-sliders-not-working/48826241), there was some CSS links missing. Once I added them everything worked perfectly
+
+## Deployment
+
+Gym 24/7 was developed using Dreamweaver and GitHub. Dreamweaver has a built in connection with GitHub that lets you commit, push and more to GitHub.
+
+Github was used deploying Gym 24/7 by these steps: 
+
+* Opened up GitHub in the browser.
+* Signed in using username and password.
+* Selected my repositories.
+* Navigated to elinkatalina/Gym-24-7
+* In the top navigation clicked settings.
+* Scrolled down to the GitHub Pages area.
+* Selected Master Branch from the Source dropdown menu.
+* Clicked to confirm my selection.
+* Gym-24-7 now live on GitHub Pages.
+
+
+## Credits
+
+### Bootstrap
+I want to give proper credits to the power of Bootstrap. The website was built using mostly Bootstrap. Every section is wrapped inside of a Bootstrap row and columns.
+Most of the code in the project is handwritten using it as a guideline. But the carousel is copied from the documentation and then customized to fit with my pictures. I added a row with some columns to for responsivity reasons. 
+
+
+### Bugs
+
+Big thanks to StackOverflow for being awesome as always. If there is any bug you 100% would find it on stackoverflow.
+
+[Link to stackoverflow](https://stackoverflow.com/)
+
+
+The Bootstrap documentation helped a lot.
+
+[Link to Bootstrap documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
+
+### Pictures
+
+All of the pictures used in this project are free to use stock photos. The pictures are from FreePik.com and Pexels.com. I will link them below.
+* [Header/Jumbotron picture](https://www.freepik.com/free-photo/couple-training-gym_3633278.htm#page=1&query=gym&position=20)
+* [Woman with gymball](https://www.pexels.com/photo/photo-of-woman-wearing-grey-sports-bra-3752836/)
+* [Carousel gym location Long Beach](https://www.freepik.com/free-photo/modern-gym-interior-with-exercise-equipments_3630907.htm#page=1&query=gym&position=14)
+* [Carousel gym location New York](https://www.freepik.com/free-photo/gym-interior-with-equipments_3630931.htm#page=1&query=gym&position=4)
+* [Carousel gym location Arizona](https://www.freepik.com/free-photo/still-life-gym-equipment_4729807.htm#page=1&query=gym&position=31)
+* [Classes card image number 1 dumbbell](https://www.pexels.com/photo/people-holding-a-weights-3766211/)
+* [Classes card image number 2 women doing yoga](https://www.pexels.com/photo/woman-in-blue-sports-bra-and-white-leggings-doing-yoga-3822166/)
+* [Classes card image number 3 woman working out outside](https://www.freepik.com/free-photo/young-beautiful-sportive-girl-training-sunrise-seaside_7987006.htm#page=1&query=fitness&position=49)
+
+
+### Special thanks to
+My code institute mentor Simen Daehlin
+
+**This site is for educational purposes only**
