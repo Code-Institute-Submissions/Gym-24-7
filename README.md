@@ -207,13 +207,27 @@ I added a container with a row and a col to the carousel and gave it a col md of
 * **Plan:** Add different boostrap cards the represent the gyms different classes. They should have pictures of fitness related things or/and pictures of people working out.
 The cards should all be on the same line on big and medium screen sizes. On smaller sizes they should be stacked on top of each other.
 I
-* **Implementation:** I created a container, within the container a row and within the row I created 3 cols. In every col I added 1 bootstrap card with an image and text. For the images I once again went to FreePik to find my images. I once again used Photoshop to edit them. It took a bit of testing to make sure everything looked good on every screen size. I added spaces between the cards for the smaller screen sizes where the cards are stack. 
+* **Implementation:** I created a container, within the container a row and within the row I created three cols. In every col I added one bootstrap card with an image and text. For the images I once again went to FreePik to find my images. I once again used Photoshop to edit them. It took a bit of testing to make sure everything looked good on every screen size. I added spaces between the cards for the smaller screen sizes where the cards are stack. 
 
 * **Test:** To see if everything works as intended I once again use the chrome dev-tools to see what it would look like on different screen sizes.
 
 * **Results:** Everything looks and works as expected.
 
 * **Verdict:** The class cards passed all the tests.
+
+### Pricing cards
+
+* **Plan:** Add two cards that should display the pricing of the gym. There should be one for basic membership and one for premium membership. The one for premium should be a little bit longer. The cards needs to be fully responsive.
+
+* **Implementation:** I created a container, within the container a row and within the row I created two cols. In every col I added one bootstrap card with text. It took a bit of testing to make sure everything looked good on every screen size. I added spaces between the cards for the smaller screen sizes where the cards are stack. 
+
+* **Test:** To see if everything works as intended I once again use the chrome dev-tools to see what it would look like on different screen sizes.
+
+* **Results:** Everything looks and works as expected.
+
+* **Verdict:** The class cards passed all the tests.
+
+
 
 
 
