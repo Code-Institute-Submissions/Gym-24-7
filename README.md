@@ -320,3 +320,5 @@ All of the pictures used in this project are free to use stock photos. The pictu
 
 ### Special thanks to
 My code institute mentor Simen Daehlin
+
+**This site is for educational purposes only**
