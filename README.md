@@ -187,6 +187,21 @@ jumbotron in the different media queries. I link the navlinks to the different s
 
 * **Verdict:** The picture & text about the gym passed all the tests.
 
+### Location carousel
+
+* **Plan:** Use some kind of slider to represent the different locations of the gym. It should be fully responsive
+
+* **Implementation:** I used FreePik to find different pictures of gyms. I went through the Bootstrap documentation and decicded that the carousel was a good fit for my needs.
+I added a container with a row and a col to the carousel and gave it a col md of 12  and col l of 10 I wanted the carousel to take upp 100% of the container on medium to small sizes but not for desktop. 
+
+* **Test:** I had some issues with the carousel not sliding. I used google and found a stack overflow thread that helped me. There was some CSS links missing. More about this in bugs. I used chrome dev-tools to see how the carousel works on different screen sizes.
+
+* **Results:** Once i fixed this everything worked as intended. 
+
+* **Verdict:** The location carousel passed all the tests.
+
+
+
 ### Class cards
 
 * **Plan:** Add different boostrap cards the represent the gyms different classes. They should have pictures of fitness related things or/and pictures of people working out.
