@@ -310,6 +310,7 @@ The Bootstrap documentation helped a lot.
 ### Pictures
 
 All of the pictures used in this project are free to use stock photos. The pictures are from FreePik.com and Pexels.com. I will link them below.
+* [Apple mockup](https://www.freemockupworld.com/huge-apple-devices-mockup-bundle/)
 * [Header/Jumbotron picture](https://www.freepik.com/free-photo/couple-training-gym_3633278.htm#page=1&query=gym&position=20)
 * [Woman with gymball](https://www.pexels.com/photo/photo-of-woman-wearing-grey-sports-bra-3752836/)
 * [Carousel gym location Long Beach](https://www.freepik.com/free-photo/modern-gym-interior-with-exercise-equipments_3630907.htm#page=1&query=gym&position=14)
