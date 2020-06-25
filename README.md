@@ -179,7 +179,7 @@ jumbotron in the different media queries. I link the navlinks to the different s
 
 * **Plan:** Add a container with a picture of someone workingout or something related to fitness. Add a text within the same container. This text is going to be about the gym from a member perspective. The picture and the text should be presented on a line of it's own on smaller screen sizes.
 
-* **Implementation:** I created a container and within the container i added a row, within the row I added two columns, one for the img and one for the text. For the image I added a class of "img-fluid" so the img would fit nicely inside of the col div. 
+* **Implementation:** I created a container and within the container i added a row, within the row I added two columns, one for the img and one for the text. For the image I added a class of "img-fluid" so the img would fit nicely inside of the col div. The picture used I found on FreePik. I edited it in Photoshop to match the overall look and feel of the rest of the website.
 
 * **Test:** To see if everything works as intended I once again use the chrome dev-tools to see what it would look like on different screen sizes.
 
@@ -187,6 +187,18 @@ jumbotron in the different media queries. I link the navlinks to the different s
 
 * **Verdict:** The picture & text about the gym passed all the tests.
 
+### Class cards
+
+* **Plan:** Add different boostrap cards the represent the gyms different classes. They should have pictures of fitness related things or/and pictures of people working out.
+The cards should all be on the same line on big and medium screen sizes. On smaller sizes they should be stacked on top of each other.
+I
+* **Implementation:** I created a container, within the container a row and within the row I created 3 cols. In every col I added 1 bootstrap card with an image and text. For the images I once again went to FreePik to find my images. I once again used Photoshop to edit them. It took a bit of testing to make sure everything looked good on every screen size. I added spaces between the cards for the smaller screen sizes where the cards are stack. 
+
+* **Test:** To see if everything works as intended I once again use the chrome dev-tools to see what it would look like on different screen sizes.
+
+* **Results:** Everything looks and works as expected.
+
+* **Verdict:** The class cards passed all the tests.
 
 
 
