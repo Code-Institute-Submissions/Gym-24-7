@@ -175,6 +175,20 @@ jumbotron in the different media queries. I link the navlinks to the different s
 
 * **Verdict:** The promocontainer passed all the tests.
 
+### Picture & text about the gym
+
+* **Plan:** Add a container with a picture of someone workingout or something related to fitness. Add a text within the same container. This text is going to be about the gym from a member perspective. The picture and the text should be presented on a line of it's own on smaller screen sizes.
+
+* **Implementation:** I created a container and within the container i added a row, within the row I added two columns, one for the img and one for the text. For the image I added a class of "img-fluid" so the img would fit nicely inside of the col div. 
+
+* **Test:** To see if everything works as intended I once again use the chrome dev-tools to see what it would look like on different screen sizes.
+
+* **Results:** Everything looks and works as expected
+
+* **Verdict:** The picture & text about the gym passed all the tests.
+
+
+
 
 
 
