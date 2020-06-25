@@ -227,6 +227,18 @@ I
 
 * **Verdict:** The class cards passed all the tests.
 
+### Footer
+
+* **Plan:** Add a footer to hold social icons and copyright text.
+
+* **Implementation:** I created a bootstrap footer. Then I added a container. Within the container I added a custom class along with center-text and center-block. Inside of this icon I added 4 fontAwesome icons that links to different social media. Below the icons I added a copyright text in a container of its own. I did some custom styling to both the icon container and the copyright text to give it a little bit of space between the pricing card and the footer.
+
+* **Test:** To see if everything works as intended I once again use the chrome dev-tools to see what it would look like on different screen sizes.
+
+* **Results:** Everything looks and works as expected.
+
+* **Verdict:** The footer passed all the tests.
+
 
 
 
