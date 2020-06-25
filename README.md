@@ -286,3 +286,6 @@ Github was used deploying Gym 24/7 by these steps:
 * Selected Master Branch from the Source dropdown menu.
 * Clicked to confirm my selection.
 * Gym-24-7 now live on GitHub Pages.
+
+
+## Credits
