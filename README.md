@@ -289,3 +289,14 @@ Github was used deploying Gym 24/7 by these steps:
 
 
 ## Credits
+
+### Bugs
+
+Big thanks to StackOverflow for being awesome as always. If there is any bug you 100% would find it on stackoverflow.
+
+The Bootstrap documentation helped a lot.
+
+### Pictures
+
+All of the pictures used in this project are free to use stock photos. The pictures are from FreePik.com and Pexels.com. I will link them below.
+
