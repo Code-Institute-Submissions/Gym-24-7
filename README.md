@@ -294,7 +294,12 @@ Github was used deploying Gym 24/7 by these steps:
 
 Big thanks to StackOverflow for being awesome as always. If there is any bug you 100% would find it on stackoverflow.
 
+[Link to stackoverflow](https://stackoverflow.com/)
+
+
 The Bootstrap documentation helped a lot.
+
+[Link to Bootstrap documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 ### Pictures
 
