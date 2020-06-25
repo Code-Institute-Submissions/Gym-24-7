@@ -165,6 +165,108 @@ jumbotron in the different media queries. I link the navlinks to the different s
 * **Verdict:** The header & navbar passed all the tests.
 
 ### Promocontainer
-* **Plan:** 
+* **Plan:** The promocontainer should contain text with symbols that promotes the gym and it features. It should display all the icons and text on a single line on larger screens, **two** per line on medium and **one** on each line on smaller screens.
+
+* **Implementation:** I created a container, with a row and 4 columns. In each column I added a header and an icon. I added different col-class so the responsivness would be as intended.
+
+* **Test:** To test that everything is working as inteded, I use the chrome dev-tools to see how the promocontainer responds to different screen sizes.
+
+* **Results:** The promocontainer with the icons and text works as intended, it displays all the icons and text on a single line on desktop, **two** per line on tablet and on desktop it should display all the icons and text on the same line.
+
+* **Verdict:** The promocontainer passed all the tests.
+
+### Picture & text about the gym
+
+* **Plan:** Add a container with a picture of someone workingout or something related to fitness. Add a text within the same container. This text is going to be about the gym from a member perspective. The picture and the text should be presented on a line of it's own on smaller screen sizes.
+
+* **Implementation:** I created a container and within the container i added a row, within the row I added two columns, one for the img and one for the text. For the image I added a class of "img-fluid" so the img would fit nicely inside of the col div. The picture used I found on FreePik. I edited it in Photoshop to match the overall look and feel of the rest of the website.
+
+* **Test:** To see if everything works as intended I once again use the chrome dev-tools to see what it would look like on different screen sizes.
+
+* **Results:** Everything looks and works as expected
+
+* **Verdict:** The picture & text about the gym passed all the tests.
+
+### Location carousel
+
+* **Plan:** Use some kind of slider to represent the different locations of the gym. It should be fully responsive
+
+* **Implementation:** I used FreePik to find different pictures of gyms. I went through the Bootstrap documentation and decicded that the carousel was a good fit for my needs.
+I added a container with a row and a col to the carousel and gave it a col md of 12  and col l of 10 I wanted the carousel to take upp 100% of the container on medium to small sizes but not for desktop. 
+
+* **Test:** I had some issues with the carousel not sliding. I used google and found a stack overflow thread that helped me. There was some CSS links missing. More about this in bugs. I used chrome dev-tools to see how the carousel works on different screen sizes.
+
+* **Results:** Once i fixed this everything worked as intended. 
+
+* **Verdict:** The location carousel passed all the tests.
 
 
+
+### Class cards
+
+* **Plan:** Add different boostrap cards the represent the gyms different classes. They should have pictures of fitness related things or/and pictures of people working out.
+The cards should all be on the same line on big and medium screen sizes. On smaller sizes they should be stacked on top of each other.
+I
+* **Implementation:** I created a container, within the container a row and within the row I created three cols. In every col I added one bootstrap card with an image and text. For the images I once again went to FreePik to find my images. I once again used Photoshop to edit them. It took a bit of testing to make sure everything looked good on every screen size. I added spaces between the cards for the smaller screen sizes where the cards are stack. 
+
+* **Test:** To see if everything works as intended I once again use the chrome dev-tools to see what it would look like on different screen sizes.
+
+* **Results:** Everything looks and works as expected.
+
+* **Verdict:** The class cards passed all the tests.
+
+### Pricing cards
+
+* **Plan:** Add two cards that should display the pricing of the gym. There should be one for basic membership and one for premium membership. The one for premium should be a little bit longer. The cards needs to be fully responsive.
+
+* **Implementation:** I created a container, within the container a row and within the row I created two cols. In every col I added one bootstrap card with text. It took a bit of testing to make sure everything looked good on every screen size. I added spaces between the cards for the smaller screen sizes where the cards are stack. 
+
+* **Test:** To see if everything works as intended I once again use the chrome dev-tools to see what it would look like on different screen sizes.
+
+* **Results:** Everything looks and works as expected.
+
+* **Verdict:** The class cards passed all the tests.
+
+### Footer
+
+* **Plan:** Add a footer to hold social icons and copyright text.
+
+* **Implementation:** I created a bootstrap footer. Then I added a container. Within the container I added a custom class along with center-text and center-block. Inside of this icon I added 4 fontAwesome icons that links to different social media. Below the icons I added a copyright text in a container of its own. I did some custom styling to both the icon container and the copyright text to give it a little bit of space between the pricing card and the footer.
+
+* **Test:** To see if everything works as intended I once again use the chrome dev-tools to see what it would look like on different screen sizes.
+
+* **Results:** Everything looks and works as expected.
+
+* **Verdict:** The footer passed all the tests.
+
+### Responsiveness
+
+* **Plan:** Use Bootstrap to make the website fully responsive on all screen sizes.
+
+* **Implementation:** I used the container, row and col approach to make the different sections of the website responsive. I also use the different col types to better be able to control how the content reacts to the different screen sizes.
+
+* **Test:** To test this I mostly used chrome dev-tools. I also used my phone and my Ipad to check how the website would look in action. Things did not work as intended for me most time. I had a review with my code institute mentor and he gave me some tips and tricks on how to think. Once I went through the Bootstrap documentation again and got the hang of it I got most things to work, I was able to remove a lot of CSS that I did not need anymore. The rest took a couple of more tries and a media querie to get right.
+
+* **Results:** After a lot of testing and changing things everything works as intended.
+
+* **Verdict:** The footer passed all the tests.
+
+## Bugs
+
+Along the way there were some bugs.
+
+### Bootstrap cards displays spacing between
+
+* **Bug:** When adding the navbar inside of the jumbotron it would display a lot of whitespace on the top, like a margin.
+* **Solution:** There was no margin to edit, setting is to negative margin did not work either. Luckily when I added the class "fixed-top" to the navbar to make it fixed the whitespace disapeared.
+
+### Bootstrap not displaying cards properly on 375px and down
+
+* **Bug:** The different cards did not display properly on small screen sizes. I used the class my-sm-4 that was gonna add spacing between the cards on smaller screensizes.
+It did not work for 375 and down.
+* **Solution:** I added a custom media querie to target these small sizes. I used rem to add some margin between the cards.
+
+### Bootstrap carousel not sliding properly
+
+* **Bug:** The slider and controls for the Bootstrap carousel did not work at all. 
+* **Solution:** I used my good old friend Google and found a Stackoverflow [thread](https://stackoverflow.com/questions/48824568/bootstrap-4-carousel-sliders-not-working/48826241), there was some CSS links missing. Once I added them everything worked perfectly
