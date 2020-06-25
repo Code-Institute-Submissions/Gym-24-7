@@ -239,6 +239,17 @@ I
 
 * **Verdict:** The footer passed all the tests.
 
+### Responsiveness
+
+* **Plan:** Use Bootstrap to make the website fully responsive on all screen sizes.
+
+* **Implementation:** I used the container, row and col approach to make the different sections of the website responsive. I also use the different col types to better be able to control how the content reacts to the different screen sizes.
+
+* **Test:** To test this I mostly used chrome dev-tools. I also used my phone and my Ipad to check how the website would look in action. Things did not work as intended for me most time. I had a review with my code institute mentor and he gave me some tips and tricks on how to think. Once I went through the Bootstrap documentation again and got the hang of it I got most things to work, I was able to remove a lot of CSS that I did not need anymore. The rest took a couple of more tries and a media querie to get right.
+
+* **Results:** After a lot of testing and changing things everything works as intended.
+
+* **Verdict:** The footer passed all the tests.
 
 
 
