@@ -314,4 +314,5 @@ All of the pictures used in this project are free to use stock photos. The pictu
 * [Classes card image number 3 woman working out outside](https://www.freepik.com/free-photo/young-beautiful-sportive-girl-training-sunrise-seaside_7987006.htm#page=1&query=fitness&position=49)
 
 
-
+### Special thanks to
+My code institute mentor Simen Daehlin
