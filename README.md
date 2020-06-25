@@ -270,3 +270,19 @@ It did not work for 375 and down.
 
 * **Bug:** The slider and controls for the Bootstrap carousel did not work at all. 
 * **Solution:** I used my good old friend Google and found a Stackoverflow [thread](https://stackoverflow.com/questions/48824568/bootstrap-4-carousel-sliders-not-working/48826241), there was some CSS links missing. Once I added them everything worked perfectly
+
+## Deployment
+
+Gym 24/7 was developed using Dreamweaver and GitHub. Dreamweaver has a built in connection with GitHub that lets you commit, push and more to GitHub.
+
+Github was used deploying Gym 24/7 by these steps: 
+
+* Opened up GitHub in the browser.
+* Signed in using username and password.
+* Selected my repositories.
+* Navigated to elinkatalina/Gym-24-7
+* In the top navigation clicked settings.
+* Scrolled down to the GitHub Pages area.
+* Selected Master Branch from the Source dropdown menu.
+* Clicked to confirm my selection.
+* Gym-24-7 now live on GitHub Pages.
