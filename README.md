@@ -304,4 +304,7 @@ The Bootstrap documentation helped a lot.
 ### Pictures
 
 All of the pictures used in this project are free to use stock photos. The pictures are from FreePik.com and Pexels.com. I will link them below.
+* [Classes card image number 3](https://www.freepik.com/free-photo/young-beautiful-sportive-girl-training-sunrise-seaside_7987006.htm#page=1&query=fitness&position=49)
+
+
 
