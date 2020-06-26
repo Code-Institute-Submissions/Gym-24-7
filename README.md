@@ -151,7 +151,11 @@ You can find then wireframe for the phone [here](https://raw.githubusercontent.c
 
 ## Testing
 it is important that my site works as planned. So therefore I double test everything to make sure it works as intended.
-I test the website by responsiveness and features. I also try to look through the spelling. When I feel like I've gone trought it all I validate the code with the wc3 CSS & HTML validators. The CSS passed without any issues but the HTML gave the errors "Error: Attribute target not allowed on element i at this point." on the FontAwesome icons. I added the target blank to the a element instead and that fixed the issue. I also got a warning about my h2's being empty. These are the h2s i wrapped around my promoicons. I removed those and added the h2 class to the I element instead and that fixed the issue. I validated the code once again and this time it was all green, no errors or warnings.
+I test the website by responsiveness and features. I also try to look through the spelling. When I feel like I've gone trought it all I validate the code with the wc3 CSS & HTML validators. 
+
+The CSS passed without any issues but the HTML gave the errors "Error: Attribute target not allowed on element i at this point." on the FontAwesome icons. I added the target blank to the a element instead and that fixed the issue. 
+
+I also got a warning about my h2's being empty. These are the h2s i wrapped around my promoicons. I removed those and added the h2 class to the I element instead and that fixed the issue. I validated the code once again and this time it was all green, no errors or warnings.
 
 ### Header & Navbar
 * **Plan:** The header needs to be fully responsive, the header should include a navbar.
