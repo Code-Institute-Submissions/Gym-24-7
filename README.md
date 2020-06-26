@@ -2,7 +2,7 @@
 
 ![devices](/assets/images/appledevices.png)
 
-Welcome to a Gym website that is easy to navigate, easy to find relevant info and also beautiful.
+**Welcome to a Gym website that is easy to navigate, easy to find relevant info and also beautiful.**
 
 
 
