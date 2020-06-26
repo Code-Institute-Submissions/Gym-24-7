@@ -151,6 +151,11 @@ footer {
 	color:#FF0000;
 }
 
+.carouselicon {
+	color:#FF0004;
+	font-size:4.4rem;
+}
+
 /* Card classes styling */
 .card-group {
 	margin:0 auto;
