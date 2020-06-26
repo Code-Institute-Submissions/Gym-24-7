@@ -140,6 +140,8 @@ You can find then wireframe for the phone [here](https://raw.githubusercontent.c
 * [FontAwesome](fontawesome.com)
 
 ### Tools
+* Wc3 CSS Validator
+* Wc3 HTML Validator
 * Git
 * Adobe XD
 * Adope Photoshop
