@@ -10,8 +10,12 @@ html {
 }
 body {
 	background-color:#000;
-	overflow-x: hidden;
 	font-size:1.6rem
+}
+
+.row {
+	margin:0;
+	padding:0;
 }
 
 /*Jumbotron styling*/
