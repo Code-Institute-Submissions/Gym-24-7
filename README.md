@@ -8,34 +8,35 @@
 
 ## Content
 
-* UX
-  * Project Goals
-  * Users Goals
-  * Site Owner Goals
-  * User Requirements and Expectations
-  * Design Choices
-    * Fonts
-    * Icons
-    * Colours
-    * Styling
-    * Images
-    * Backgrounds
-
-* Wireframes
-
-* Features
-  * Features that have been developed
-  * Features that will be implemented in the future
-
-* Technologies Used
-
-* Testing
-
-* Bugs
-
-* Deployment
-
-* Credits
+  * [Content](#content)
+  * [UX](#ux)
+    + [Project Goals](#project-goals)
+      - [User Goals](#user-goals)
+      - [Site Owner Goals](#site-owner-goals)
+    + [User Stories](#user-stories)
+  * [User Requirements and Expectations](#user-requirements-and-expectations)
+    + [Requirements](#requirements)
+    + [Expectations](#expectations)
+    + [Fonts](#fonts)
+    + [Colours](#colours)
+    + [Styling](#styling)
+    + [Images](#images)
+    + [Backgrounds](#backgrounds)
+  * [Wireframes](#wireframes)
+    + [Desktop](#desktop)
+    + [Tablet](#tablet)
+    + [Phone](#phone)
+  * [Features](#features)
+    + [Features that have been developed:](#features-that-have-been-developed-)
+    + [Features that will be developed in the future:](#features-that-will-be-developed-in-the-future-)
+  * [Technologies Used](#technologies-used)
+    + [Languages](#languages)
+    + [Libaries & Frameworks](#libaries---frameworks)
+    + [Tools](#tools)
+    + [Stockphotos](#stockphotos)
+  * [Testing](#testing)
+  * [Bugs](#bugs)
+  * [Credits](#credits)
 
 ## UX
 
