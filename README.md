@@ -136,10 +136,10 @@ You can find then wireframe for the phone [here](https://raw.githubusercontent.c
 * CSS
 
 ### Libaries & Frameworks
-* [Boostrap](Bootstrap.com)
-* [FontAwesome](fontawesome.com)
-* [JsPopper](popper.js.org/)
-* [JQuery](jquery.com)
+* [Boostrap](https://getbootstrap.com/)
+* [FontAwesome](https://fontawesome.com/)
+* [JsPopper](https://popper.js.org/)
+* [JQuery](https://jquery.com/)
 
 ### Tools
 * Wc3 CSS Validator
