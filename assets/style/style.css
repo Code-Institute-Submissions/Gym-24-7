@@ -146,12 +146,11 @@ footer {
 }
 
 /*Carousel styling*/
-
-
-.customarrows i {
-	font-size:4.5rem;
-	color:#FF000;
+.fas {
+	color:#FF0004;
+	font-size:4rem;
 }
+
 
 /* Card classes styling */
 .card-group {
