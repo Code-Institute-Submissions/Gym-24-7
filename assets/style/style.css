@@ -1,285 +1,259 @@
 /*Imported font (work sans) from google fonts,*/
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;&family=Roboto:wght@300;&display=swap');
-
-
-
 html {
-	font-size:62.5%;
-	
+	font-size: 62.5%;
 }
+
 body {
-	background-color:#000;
-	font-size:1.6rem;
-		font-family: 'Montserrat', sans-serif;
+	background-color: #000;
+	font-size: 1.6rem;
+	font-family: 'Montserrat', sans-serif;
 }
 
 footer {
-	width:33%;
-	margin:0 auto;
-	margin-bottom:0px;
-	
+	width: 33%;
+	margin: 0 auto;
+	margin-bottom: 0px;
 }
-
 
 .row {
-	margin:0;
-	padding:0;
+	margin: 0;
+	padding: 0;
 }
 
+
 /*Jumbotron styling*/
+
 .jumbotron {
 	background-image: linear-gradient(to top, black, transparent 90%), url("../images/header.png");
-	 background-size: cover;
-  background-position:top center;
-  height: auto;
-  width:100%;
+	background-size: cover;
+	background-position: top center;
+	height: auto;
+	width: 100%;
 }
 
 
 /*Navbar styling*/
+
 .nav-logo {
-	font-size:3.4rem;
-	color:#FFF;
+	font-size: 3.4rem;
+	color: #FFF;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
-	letter-spacing:0px;
+	letter-spacing: 0px;
 }
 
 .nav-logo:hover {
-	color:#FF0000;
+	color: #FF0000;
 }
 
 .nav-item {
-	color:#FFF;
-	margin-left:5rem;
-	margin-right:5rem;
-	font-size:2.2rem;
-	font-weight:600;
+	color: #FFF;
+	margin-left: 5rem;
+	margin-right: 5rem;
+	font-size: 2.2rem;
+	font-weight: 600;
 	font-family: 'Montserrat', sans-serif;
-		
 }
 
 .nav-item:hover {
-	color:#FF0000;
+	color: #FF0000;
 }
 
 .navbar-toggler-icon {
-    background:url('https://i.ya-webdesign.com/images/hamburger-menu-icon-png-white-6.png') no-repeat center center;
-    background-size: 100% 100%;
+	background: url('https://i.ya-webdesign.com/images/hamburger-menu-icon-png-white-6.png') no-repeat center center;
+	background-size: 100% 100%;
 }
 
 .navbar-toggler:focus,
 .navbar-toggler:active,
 .navbar-toggler-icon:focus {
-    outline: none;
-    box-shadow: none;
+	outline: none;
+	box-shadow: none;
 }
+
 
 /* Jumbotron container */
 
-
-
 .headertext {
-	margin:0;
+	margin: 0;
 	text-align: center;
-	padding-top:10rem;
-	color:#FFF;
-	font-size:6.4rem;
+	padding-top: 10rem;
+	color: #FFF;
+	font-size: 6.4rem;
 }
 
-
 .jumbotext {
-	margin:0;
+	margin: 0;
 	text-align: center;
-	color:#FFF;
-	font-size:2.4rem;
-	padding-top:2rem;
+	color: #FFF;
+	font-size: 2.4rem;
+	padding-top: 2rem;
 }
 
 .strongjumbotrontext {
-	color:#FF0000;
+	color: #FF0000;
 }
-
-
-
 
 
 /* Promotext styling */
 
-
-
-.titlepromotext{
-		font-family: 'Roboto', sans-serif;
+.titlepromotext {
+	font-family: 'Roboto', sans-serif;
 	font-weight: 300;
-	color:#FFF;
-	font-size:3.4rem;
+	color: #FFF;
+	font-size: 3.4rem;
 }
 
 .promoicons {
-	color:#FFF;
-	font-size:3.2rem;
+	color: #FFF;
+	font-size: 3.2rem;
 }
 
 .promoicons:hover {
-	color:#FF0000;
+	color: #FF0000;
 }
 
-
 .abouttext {
-	color:#FFF;
+	color: #FFF;
 	font-family: 'Roboto', sans-serif;
-	font-size:2.4rem;
+	font-size: 2.4rem;
 }
 
 .strong {
-	display:flex;
+	display: flex;
 	justify-content: center;
-  align-items: center;
+	align-items: center;
 }
 
 
 /* applying padding to all containers */
+
 .container {
-	padding-top:10rem;
-	padding-bottom:10rem;
+	padding-top: 10rem;
+	padding-bottom: 10rem;
 }
+
 
 /*Carousel styling*/
 
 .carouseltext {
-	color:#FF0000;
+	color: #FF0000;
 }
 
 .carouselicon {
-	color:#FF0004;
-	font-size:4.4rem;
+	color: #FF0004;
+	font-size: 4.4rem;
 }
+
 
 /* Card classes styling */
+
 .card-group {
-	margin:0 auto;
-	margin-top:10rem;
-		text-align: center;
+	margin: 0 auto;
+	margin-top: 10rem;
+	text-align: center;
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
-	
 }
-
 
 .card {
-	border:none;
+	border: none;
 }
-
 
 .card-title {
 	font-family: 'Montserrat', sans-serif;
 	font-weight: 600;
-	font-size:2.2rem;
+	font-size: 2.2rem;
 }
 
 
 /* pricing cards*/
 
 .pricetitle {
-	font-size:2.5rem;
-	
+	font-size: 2.5rem;
 }
 
 .pricingcard {
-	background-color:#FFF;
-	border-radius:5rem;
-	padding-bottom:5rem;
+	background-color: #FFF;
+	border-radius: 5rem;
+	padding-bottom: 5rem;
 }
 
 .pricelist {
-	list-style-type:none;
-	font-size:2rem;
-	line-height:5rem;
-	padding-left:0;
+	list-style-type: none;
+	font-size: 2rem;
+	line-height: 5rem;
+	padding-left: 0;
 }
 
-
 .button {
-	background-color:#FF0000;
-	color:#FFF;
-	border:none;
-	border-radius:2rem;
-	width:150px;
-	height:50px;
-	margin:0 auto;
-	display:block;
+	background-color: #FF0000;
+	color: #FFF;
+	border: none;
+	border-radius: 2rem;
+	width: 150px;
+	height: 50px;
+	margin: 0 auto;
+	display: block;
 	font-family: 'Montserrat', sans-serif;
-	font-weight:600; 
-	font-size:1.7rem;
-
+	font-weight: 600;
+	font-size: 1.7rem;
 }
 
 .pricetext {
-	line-height:5rem;
+	line-height: 5rem;
 }
 
 .button:hover {
 	background-color: #520709;
-	
 }
 
 
 /* Footer styling*/
 
-
 .copyrighttext {
-	margin-top:20rem;
-	font-size:1rem;
+	margin-top: 20rem;
+	font-size: 1rem;
 	text-align: center;
-	color:#FFF;
-	margin:0 auto;
+	color: #FFF;
+	margin: 0 auto;
 }
-
-
 
 .footericon {
-	font-size:3rem;
-	color:#FF0004;
-	
-} 
-
-.footericon:hover{
-	color:#3E0506;
+	font-size: 3rem;
+	color: #FF0004;
 }
-	
 
-
+.footericon:hover {
+	color: #3E0506;
+}
 
 #footercontainer {
-	height:80px;
-	margin-top:15rem;
+	height: 80px;
+	margin-top: 15rem;
 }
+
 
 /* media queries for smaller devices 
 added some spaces between cards that the boostrap "my-sm" didnt cover*/
 
-
-@media (min-width: 320px){
-	
-	
+@media (min-width: 320px) {
 	.promoitem {
-		padding-top:2rem;
-		padding-bottom:2rem;
+		padding-top: 2rem;
+		padding-bottom: 2rem;
 	}
-	
 	.classcard {
-		padding-top:2rem;
-		padding-bottom:2rem;
+		padding-top: 2rem;
+		padding-bottom: 2rem;
 	}
-	
 	.pricingcard {
-		margin-top:2rem;
-		margin-bottom:2rem;
+		margin-top: 2rem;
+		margin-bottom: 2rem;
 	}
-	
 	.footericon {
-		font-size:3rem;
+		font-size: 3rem;
 	}
 }
 	
