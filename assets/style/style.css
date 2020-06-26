@@ -183,7 +183,7 @@ body {
 .pricelist {
 	list-style-type:none;
 	font-size:2rem;
-	line-height: 200%;
+	line-height:3rem;
 	padding-left:0;
 }
 
