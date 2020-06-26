@@ -151,6 +151,9 @@ footer {
 	font-size:4rem;
 }
 
+.carouseltext {
+	color:#FF0000;
+}
 
 /* Card classes styling */
 .card-group {
@@ -206,7 +209,12 @@ footer {
 	display:block;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:600; 
+	font-size:1.7rem;
 
+}
+
+.pricetext {
+	line-height:5rem;
 }
 
 .button:hover {
