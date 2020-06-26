@@ -143,6 +143,12 @@ You can find then **wireframe** for the **phone** [here](https://raw.githubuserc
 * Adope Photoshop
 * Adobe Dreamweaver
 
+### Stockphotos
+* [FreePik](https://www.freepik.com/)
+* [Freemockupworld](https://www.freemockupworld.com/)
+* [Pexels](https://www.pexels.com/)
+
+
 ## Testing
 it is **important** that my site works as **planned.** So therefore I **double test** everything to make sure it **works** as **intended.**
 I **test** the website by **responsiveness** and **features.** I also **try** to look through **the spelling.** When I **feel** like I've gone trought it **all** I **validate** the **code** with the wc3 **CSS** & **HTML** validators. 
@@ -284,6 +290,17 @@ Gym 24/7 was **developed** using **Dreamweaver** and **GitHub.** **Dreamweaver**
 * **Selected Master Branch** from the **Source dropdown menu.**
 * **Clicked** to **confirm** my **selection.**
 * **Gym-24-7** is now **live** on **GitHub Pages.**
+
+If you want to **clone Gym-24-7** follow **these steps.**
+
+* **Navigate** to **elinkatalina/Gym-24-7**
+* **Click** the **green Clone** or **Download button.**
+* **Copy the url** in the **dropdown box.**
+* **Using** your **IDE** of choice **open** up **your** preferred **terminal.**
+* **Navigate** to **your** desired **file location.**
+* **Copy** the **following code** and **input** it into **your terminal** to **clone Gym-24-7**
+
+Git clone https://github.com/elinkatalina/Gym-24-7
 
 
 ## Credits
