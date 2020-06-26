@@ -295,37 +295,13 @@ Github was used deploying Gym 24/7 by these steps:
 
 ## Credits
 
-### Bootstrap
-I want to give proper credits to the power of Bootstrap. The website was built using mostly Bootstrap. Every section is wrapped inside of a Bootstrap row and columns.
-Most of the code in the project is handwritten using it as a guideline. But the carousel is copied from the documentation and then customized to fit with my pictures. I added a row with some columns to for responsivity reasons. 
-
-
-### Bugs
-
-Big thanks to StackOverflow for being awesome as always. If there is any bug you 100% would find it on stackoverflow.
-
-[Link to stackoverflow](https://stackoverflow.com/)
-
-
-The Bootstrap documentation helped a lot.
-
-[Link to Bootstrap documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 ### Pictures
 
-All of the pictures used in this project are free to use stock photos. The pictures are from FreePik.com and Pexels.com. I will link them below.
-* [Apple mockup](https://www.freemockupworld.com/huge-apple-devices-mockup-bundle/)
-* [Header/Jumbotron picture](https://www.freepik.com/free-photo/couple-training-gym_3633278.htm#page=1&query=gym&position=20)
-* [Woman with gymball](https://www.pexels.com/photo/photo-of-woman-wearing-grey-sports-bra-3752836/)
-* [Carousel gym location Long Beach](https://www.freepik.com/free-photo/modern-gym-interior-with-exercise-equipments_3630907.htm#page=1&query=gym&position=14)
-* [Carousel gym location New York](https://www.freepik.com/free-photo/gym-interior-with-equipments_3630931.htm#page=1&query=gym&position=4)
-* [Carousel gym location Arizona](https://www.freepik.com/free-photo/still-life-gym-equipment_4729807.htm#page=1&query=gym&position=31)
-* [Classes card image number 1 dumbbell](https://www.pexels.com/photo/people-holding-a-weights-3766211/)
-* [Classes card image number 2 women doing yoga](https://www.pexels.com/photo/woman-in-blue-sports-bra-and-white-leggings-doing-yoga-3822166/)
-* [Classes card image number 3 woman working out outside](https://www.freepik.com/free-photo/young-beautiful-sportive-girl-training-sunrise-seaside_7987006.htm#page=1&query=fitness&position=49)
+All of the pictures used in this project are free to use stock photos. The pictures are from FreePik, Freemockupworld and Pexels. I will link them below.
 
 
 ### Special thanks to
-My code institute mentor Simen Daehlin
+My code institute mentor [Simen Daehlin](https://github.com/Eventyret)
 
 **This site is for educational purposes only**
