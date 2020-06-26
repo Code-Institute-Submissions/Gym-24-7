@@ -138,6 +138,8 @@ You can find then wireframe for the phone [here](https://raw.githubusercontent.c
 ### Libaries & Frameworks
 * [Boostrap](Bootstrap.com)
 * [FontAwesome](fontawesome.com)
+* [JsPopper](popper.js.org/)
+* [JQuery](jquery.com)
 
 ### Tools
 * Wc3 CSS Validator
