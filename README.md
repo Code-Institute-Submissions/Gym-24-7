@@ -2,7 +2,7 @@
 
 ![devices](/assets/images/appledevices.png)
 
-Welcome to a Gym website that is easy to navigate, easy to find relevant info and also beautiful.
+**Welcome to a Gym website that is easy to navigate, easy to find relevant info and also beautiful.**
 
 
 
@@ -94,10 +94,6 @@ Montserrat & Roboto
 For the colours I have chosen to go with mainly dark grey and black, I want to keep it elegant. To highlight and keep it intresting I've added red. Red is the color of passion, I think that goes well this specific branding.
 ![Colors](/wireframes/fontscolorsetc/Colors.png)
 
-
-### Icons
-For the Icons I'm using icons from the fontawesome CDN. The goal here is not to overuse them, keep it simple.
-
 ### Styling
 For the overall styling of the project I'm using the foundation of Boostrap but on top of that I am using my own styling. 
 
@@ -139,19 +135,27 @@ You can find then wireframe for the phone [here](https://raw.githubusercontent.c
 * HTML
 * CSS
 
-### Tools & Libraries
-* Boostrap
-* Flexbox
-* CSS grid
+### Libaries & Frameworks
+* [Boostrap](https://getbootstrap.com/)
+* [FontAwesome](https://fontawesome.com/)
+* [JsPopper](https://popper.js.org/)
+* [JQuery](https://jquery.com/)
+
+### Tools
+* Wc3 CSS Validator
+* Wc3 HTML Validator
+* Git
 * Adobe XD
 * Adope Photoshop
 * Adobe Dreamweaver
-* Pexels (Stock photos libary)
-* FreePik (Stock photos libary)
 
 ## Testing
 it is important that my site works as planned. So therefore I double test everything to make sure it works as intended.
-I test the website by responsiveness and features. I also try to look through the spelling. When I feel like I've gone trought it all I validate the code with the wc3 CSS & HTML validators. The CSS passed without any issues but the HTML gave the errors "Error: Attribute target not allowed on element i at this point." on the FontAwesome icons. I added the target blank to the a element instead and that fixed the issue. I also got a warning about my h2's being empty. These are the h2s i wrapped around my promoicons. I removed those and added the h2 class to the I element instead and that fixed the issue. I validated the code once again and this time it was all green, no errors or warnings.
+I test the website by responsiveness and features. I also try to look through the spelling. When I feel like I've gone trought it all I validate the code with the wc3 CSS & HTML validators. 
+
+The CSS passed without any issues but the HTML gave the errors "Error: Attribute target not allowed on element i at this point." on the FontAwesome icons. I added the target blank to the a element instead and that fixed the issue. 
+
+I also got a warning about my h2's being empty. These are the h2s i wrapped around my promoicons. I removed those and added the h2 class to the I element instead and that fixed the issue. I validated the code once again and this time it was all green, no errors or warnings.
 
 ### Header & Navbar
 * **Plan:** The header needs to be fully responsive, the header should include a navbar.
@@ -291,37 +295,13 @@ Github was used deploying Gym 24/7 by these steps:
 
 ## Credits
 
-### Bootstrap
-I want to give proper credits to the power of Bootstrap. The website was built using mostly Bootstrap. Every section is wrapped inside of a Bootstrap row and columns.
-Most of the code in the project is handwritten using it as a guideline. But the carousel is copied from the documentation and then customized to fit with my pictures. I added a row with some columns to for responsivity reasons. 
-
-
-### Bugs
-
-Big thanks to StackOverflow for being awesome as always. If there is any bug you 100% would find it on stackoverflow.
-
-[Link to stackoverflow](https://stackoverflow.com/)
-
-
-The Bootstrap documentation helped a lot.
-
-[Link to Bootstrap documentation](https://getbootstrap.com/docs/4.5/getting-started/introduction/)
 
 ### Pictures
 
-All of the pictures used in this project are free to use stock photos. The pictures are from FreePik.com and Pexels.com. I will link them below.
-* [Apple mockup](https://www.freemockupworld.com/huge-apple-devices-mockup-bundle/)
-* [Header/Jumbotron picture](https://www.freepik.com/free-photo/couple-training-gym_3633278.htm#page=1&query=gym&position=20)
-* [Woman with gymball](https://www.pexels.com/photo/photo-of-woman-wearing-grey-sports-bra-3752836/)
-* [Carousel gym location Long Beach](https://www.freepik.com/free-photo/modern-gym-interior-with-exercise-equipments_3630907.htm#page=1&query=gym&position=14)
-* [Carousel gym location New York](https://www.freepik.com/free-photo/gym-interior-with-equipments_3630931.htm#page=1&query=gym&position=4)
-* [Carousel gym location Arizona](https://www.freepik.com/free-photo/still-life-gym-equipment_4729807.htm#page=1&query=gym&position=31)
-* [Classes card image number 1 dumbbell](https://www.pexels.com/photo/people-holding-a-weights-3766211/)
-* [Classes card image number 2 women doing yoga](https://www.pexels.com/photo/woman-in-blue-sports-bra-and-white-leggings-doing-yoga-3822166/)
-* [Classes card image number 3 woman working out outside](https://www.freepik.com/free-photo/young-beautiful-sportive-girl-training-sunrise-seaside_7987006.htm#page=1&query=fitness&position=49)
+All of the pictures used in this project are free to use stock photos. The pictures are from FreePik, Freemockupworld and Pexels. I will link them below.
 
 
 ### Special thanks to
-My code institute mentor Simen Daehlin
+My code institute mentor [Simen Daehlin](https://github.com/Eventyret)
 
 **This site is for educational purposes only**
