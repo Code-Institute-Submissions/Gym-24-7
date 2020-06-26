@@ -135,15 +135,15 @@ You can find then wireframe for the phone [here](https://raw.githubusercontent.c
 * HTML
 * CSS
 
-### Tools & Libraries
-* Boostrap
-* Flexbox
-* CSS grid
+### Libaries & Frameworks
+* [Boostrap](Bootstrap.com)
+* [FontAwesome](fontawesome.com)
+
+### Tools
+* Git
 * Adobe XD
 * Adope Photoshop
 * Adobe Dreamweaver
-* Pexels (Stock photos libary)
-* FreePik (Stock photos libary)
 
 ## Testing
 it is important that my site works as planned. So therefore I double test everything to make sure it works as intended.
