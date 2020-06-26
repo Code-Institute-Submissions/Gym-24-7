@@ -99,10 +99,10 @@ This is the **image** I've chosen to use for the hero of the website. I used **P
 **All** pictures used is from **either** [Pexels](https://www.pexels.com/) **or** [Freepik](https://www.freepik.com/). **Both** of these sites are for **stockphotos.** 
 
 ### Backgrounds
-For the **background*' I'm using the **colours** I presented earlier. The **body** background is **solid black,** so the whole website is **dark.**
+For the **background** I'm using the **colours** I presented earlier. The **body** background is **solid black,** so the whole website is **dark.**
 
 ## Wireframes
-I used **Adobe XD*' to create the **wireframes.** Adobe XD is a **prototype tool** mostly used for creating **mockups,** wireframes and **interactive prototypes.** The wireframes I've done are very **basic** but **straightforward.**
+I used **Adobe XD** to create the **wireframes.** Adobe XD is a **prototype tool** mostly used for creating **mockups,** wireframes and **interactive prototypes.** The wireframes I've done are very **basic** but **straightforward.**
 
 ### Desktop
 You can find the **wireframe** for the **desktop**  [here](https://raw.githubusercontent.com/Elinkatalina/Gym-24-7/master/wireframes/desktop.png)
@@ -275,15 +275,15 @@ Gym 24/7 was **developed** using **Dreamweaver** and **GitHub.** **Dreamweaver**
 
 **Github** was used deploying **Gym 24/7** by these **steps:**
 
-* Opened up GitHub in the browser.
-* Signed in using username and password.
-* Selected my repositories.
-* Navigated to elinkatalina/Gym-24-7
-* In the top navigation clicked settings.
-* Scrolled down to the GitHub Pages area.
-* Selected Master Branch from the Source dropdown menu.
-* Clicked to confirm my selection.
-* Gym-24-7 now live on GitHub Pages.
+* **Opened** up **GitHub** in the browser.
+* **Signed in** using username and password.
+* **Selected** my **repositories.**
+* **Navigated** to **elinkatalina/Gym-24-7**
+* In the **top navigation** clicked **settings.**
+* **Scrolled down** to the **GitHub Pages area.**
+* **Selected Master Branch** from the **Source dropdown menu.**
+* **Clicked** to **confirm** my **selection.**
+* **Gym-24-7** is now **live** on **GitHub Pages.**
 
 
 ## Credits
